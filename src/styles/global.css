@@ -10,6 +10,9 @@ body {
 }
 
 #nav-container {
+    position: absolute;
+    width: 100%;
+    z-index: 1;
     background-color: white;
     padding: 0.5rem;
     margin-top: 1.5rem;
@@ -19,26 +22,39 @@ body {
 }
 
 #background {
-    position: fixed;
-    filter: brightness(50%);
     top: 0;
     right: 0;
     bottom: 0;
     left: 0;
-    z-index: -1;
     height: 100vh;
     width: 100%;
 }
 
 #background video {
     width: 100%;
+    filter: brightness(50%);
     height: 100%;
     object-fit: cover;
 }
 
-section {
-    position: relative;
-    z-index: 2;
+.social {
+    background-color: white;
+    padding: 1.5rem;
+    font-size: 2rem;
+    align-items: center;
+    justify-content: center;
+    gap: 1.7rem;
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    z-index: 1;
+    top: 18rem;
+    left: -3.8rem;
+}
+
+.social:hover {
+    left: 0;
+    filter: brightness(60%);
 }
 
 img {
