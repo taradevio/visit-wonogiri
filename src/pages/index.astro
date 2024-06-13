@@ -1,5 +1,6 @@
 ---
-import NavigationBar from '../components/NavigationBar.astro';
+import HeroSection from '../layouts/HeroSection.astro';
+import MapSection from '../layouts/MapSection.astro';
 import '../styles/global.css';
 ---
 
@@ -13,22 +14,8 @@ import '../styles/global.css';
 		<title>Astro</title>
 	</head>
 	<body>
-		<header>
-			<NavigationBar />
-		</header>
-		<div id="background">
-			<video autoplay loop>
-				<source src="/wonogiri.mp4" type="video/mp4" />
-			</video>
-			<div class="social">
-				<i class="fa-brands fa-instagram"></i>
-				<i class="fa-brands fa-facebook"></i>
-				<i class="fa-brands fa-youtube"></i>
-			</div>
-		</div>
-		<section>
-			<h1>Astro</h1>
-			<p>lorem ipsum dolor sit amertaskfdnsnsfnsfskfjfbskjdfbnsfbsjhkbsdjfbsdjfbsjuf</p>
-		</section>
+		<HeroSection />
+		<MapSection />
+		
 	</body>
 </html>
