@@ -4,6 +4,10 @@
     box-sizing: border-box;
 }
 
+body {
+    background-color: whitesmoke;
+}
+
 #background {
     top: 0;
     right: 0;
