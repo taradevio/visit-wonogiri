@@ -1,6 +1,8 @@
 ---
 import HeroSection from '../layouts/HeroSection.astro';
 import MapSection from '../layouts/MapSection.astro';
+import SpotSection from '../layouts/SpotSection.astro';
+import ToTopButton from '../components/ToTopButton.astro';
 import '../styles/global.css';
 ---
 
@@ -15,7 +17,11 @@ import '../styles/global.css';
 	</head>
 	<body>
 		<HeroSection />
-		<MapSection />
-		
+		<main>
+			<MapSection />
+			<SpotSection />
+		</main>
+
+		<ToTopButton />
 	</body>
 </html>
