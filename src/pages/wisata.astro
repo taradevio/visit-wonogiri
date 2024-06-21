@@ -1,7 +1,17 @@
 ---
 import BaseLayoutWisata from "../layouts/wisata/BaseLayoutWisata.astro";
 import WisataHeroSection from "../layouts/wisata/WisataHeroSection.astro";
+import WisataGrid from "../layouts/wisata/WisataGrid.astro";
+import FooterSection from "../layouts/FooterSection.astro";
+import ToTopButton from "../components/ToTopButton.astro";
 ---
 <BaseLayoutWisata>
-    <WisataHeroSection />
+    <header>
+        <WisataHeroSection />
+    </header>
+    <main>
+        <WisataGrid />
+    </main>
+    <FooterSection />
+    <ToTopButton />
 </BaseLayoutWisata>
