@@ -1,17 +1,17 @@
 ---
-import BaseLayoutWisata from "../layouts/wisata/BaseLayoutWisata.astro";
+import PagesBaseLayout from "../layouts/PagesBaseLayout.astro";
 import WisataHeroSection from "../layouts/wisata/WisataHeroSection.astro";
 import WisataGrid from "../layouts/wisata/WisataGrid.astro";
 import FooterSection from "../layouts/FooterSection.astro";
 import ToTopButton from "../components/ToTopButton.astro";
 ---
-<BaseLayoutWisata>
+<PagesBaseLayout title="WISATA">
     <header>
-        <WisataHeroSection />
+        <WisataHeroSection heroTitle="WISATA" src="https://images.pexels.com/photos/26312401/pexels-photo-26312401/free-photo-of-city.jpeg" alt="wisata background"/>
     </header>
     <main>
         <WisataGrid />
     </main>
     <FooterSection />
     <ToTopButton />
-</BaseLayoutWisata>
+</PagesBaseLayout>
