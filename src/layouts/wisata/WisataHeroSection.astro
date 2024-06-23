@@ -1,14 +1,21 @@
 ---
+interface Props {
+    heroTitle: string;
+    src: string;
+    alt: string;
+}
 
+const { heroTitle, src, alt } = Astro.props;
 ---
-
+<!-- hero section masuk komponen -->
+<!-- ganti namanya -->
 <section>
     <div class="relative">
         <div class="h-[75vh] w-full">
-            <img src="https://images.pexels.com/photos/26312401/pexels-photo-26312401/free-photo-of-city.jpeg" alt="city of light" class="h-full w-full object-cover object-center brightness-75"/>
+            <img src={src} alt={alt} class="h-full w-full object-cover object-center brightness-75"/>
         </div>
         <div class="absolute top-1/2 -translate-y-1/2 left-2/4 -translate-x-2/4  w-max">
-            <h1 class="text-9xl">WISATA</h1>
+            <h1 class="text-9xl text-gray-100">{heroTitle}</h1>
         </div>
     </div>
 </section>
