@@ -1,18 +1,29 @@
 ---
 import PagesBaseLayout from "../../layouts/PagesBaseLayout.astro";
 import WisataHeroSection from "../../layouts/wisata/WisataHeroSection.astro";
-import WisataGrid from "../../layouts/wisata/WisataGrid.astro";
+import WisataFilter from "../../components/WisataFilter.astro";
+import WisataSpot from "../../components/WisataSpot.astro";
 import FooterSection from "../../layouts/FooterSection.astro";
 import ToTopButton from "../../components/ToTopButton.astro";
+import contentPages from '../../data/contentPages.json';
+
+const akomodasi = contentPages.akomodasi;
 ---
 
 <PagesBaseLayout title="AKOMODASI">
-    <header>
-        <WisataHeroSection heroTitle="AKOMODASI" src="https://images.pexels.com/photos/158148/ruhl-house-home-galveston-texas-158148.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="akomodasi background"/>
-    </header>
-    <main>
-        <WisataGrid />
-    </main>
-    <FooterSection />
-    <ToTopButton />
+  <header>
+    <WisataHeroSection
+      heroTitle="AKOMODASI"
+      src="https://images.pexels.com/photos/158148/ruhl-house-home-galveston-texas-158148.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      alt="akomodasi background"
+    />
+  </header>
+  <main>
+    <section class="sm:ps-6 sm:pe-6 ps-3 pe-3 pb-32">
+      <WisataFilter />
+      <WisataSpot items={akomodasi} />
+    </section>
+  </main>
+  <FooterSection />
+  <ToTopButton />
 </PagesBaseLayout>

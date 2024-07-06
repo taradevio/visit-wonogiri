@@ -1,17 +1,29 @@
 ---
 import PagesBaseLayout from "../../layouts/PagesBaseLayout.astro";
 import WisataHeroSection from "../../layouts/wisata/WisataHeroSection.astro";
-import WisataGrid from "../../layouts/wisata/WisataGrid.astro";
+import WisataFilter from "../../components/WisataFilter.astro";
+import WisataSpot from "../../components/WisataSpot.astro";
 import FooterSection from "../../layouts/FooterSection.astro";
 import ToTopButton from "../../components/ToTopButton.astro";
+import contentPages from '../../data/contentPages.json';
+
+const wisata = contentPages.wisata;
 ---
+
 <PagesBaseLayout title="WISATA">
-    <header>
-        <WisataHeroSection heroTitle="WISATA" src="https://images.pexels.com/photos/26312401/pexels-photo-26312401/free-photo-of-city.jpeg" alt="wisata background"/>
-    </header>
-    <main>
-        <WisataGrid />
-    </main>
-    <FooterSection />
-    <ToTopButton />
+  <header>
+    <WisataHeroSection
+      heroTitle="WISATA"
+      src="https://images.pexels.com/photos/26312401/pexels-photo-26312401/free-photo-of-city.jpeg"
+      alt="wisata background"
+    />
+  </header>
+  <main>
+    <section class="sm:ps-6 sm:pe-6 ps-3 pe-3 pb-32">
+      <WisataFilter />
+      <WisataSpot items={wisata} />
+    </section>
+  </main>
+  <FooterSection />
+  <ToTopButton />
 </PagesBaseLayout>
