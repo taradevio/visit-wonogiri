@@ -1,8 +1,19 @@
 ---
-import contentPages from '../data/contentPages.json';
+export interface ContentItem {
+  title: string;
+  image: string;
+  alt: string;
+}
+
+interface Props {
+  contentItems: ContentItem[];
+}
+
+const { contentItems } = Astro.props;
+
 ---
 <div class="grid sm:grid-cols-4 sm:gap-x-8 sm:gap-y-14 gap-y-24 pt-10 sm:mb-10">
-  {contentPages.map((item) => (
+  {contentItems.map((item) => (
     <article class="relative">
       <div class=" w-full border-2">
         <img
