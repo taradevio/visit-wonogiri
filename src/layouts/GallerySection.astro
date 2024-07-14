@@ -1,21 +1,12 @@
 ---
-
+import Galleries from '../data/Galleries.json';
 ---
 
 <section class="mb-40 mt-20 sm:ps-6 sm:pe-6 ps-3 pe-3">
     <h1 class="text-center text-6xl pb-10 font-bold">GALERI</h1>
-    <div class="columns-2xs gap-10">
-        <img src="https://images.pexels.com/photos/169647/pexels-photo-169647.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="img-1" class="aspect-square w-full mb-8" />
-        <img src="https://images.pexels.com/photos/466685/pexels-photo-466685.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="img-2" class="aspect-video w-full mb-8"/>
-        <img src="https://images.pexels.com/photos/325185/pexels-photo-325185.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="img-3" class="aspect-square w-full mb-8"/>
-        <img src="https://images.pexels.com/photos/378570/pexels-photo-378570.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="img-4" class="aspect-video w-full mb-8" />
-        <img src="https://images.pexels.com/photos/773471/pexels-photo-773471.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="img-5"  class="aspect-square w-full mb-8"/>
-        <img src="https://images.pexels.com/photos/169677/pexels-photo-169677.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="img-6" class="aspect-video w-full mb-8"/>
-        <img src="https://images.pexels.com/photos/219692/pexels-photo-219692.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="img-7" class="aspect-square w-full mb-8"/>
-        <img src="https://images.pexels.com/photos/302769/pexels-photo-302769.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="img-8" class="aspect-video w-full mb-8"/>
-        <img src="https://images.pexels.com/photos/1619569/pexels-photo-1619569.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="img-9" class="aspect-square w-full mb-8"/>
-        <img src="https://images.pexels.com/photos/409127/pexels-photo-409127.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="img-10" class="aspect-video w-full mb-8"/>
-        <img src="https://images.pexels.com/photos/417192/pexels-photo-417192.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="img-11" class="aspect-square w-full mb-8" />
-        <img src="https://images.pexels.com/photos/548084/pexels-photo-548084.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="img-11" class="aspect-video w-full mb-8" />
+    <div class="columns-3xs gap-10">
+        {Galleries.map((Gallery, index) => (
+            <img src={Gallery.image} alt={Gallery.alt} class={`w-full mb-8 object-cover ${index % 2 == 0 ? 'aspect-square' : 'aspect-video'}`} />
+        ))}
     </div>
 </section>
