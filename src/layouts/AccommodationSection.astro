@@ -1,61 +1,30 @@
 ---
 import SeeMoreBtn from "../components/SeeMoreBtn.astro";
+import contentPages from "../data/contentPages.json";
+
+const accommodationImages = contentPages.akomodasi.slice(1, 7);
 ---
 
 <section id="lodging" class="my-8 sm:ps-6 sm:pe-6 ps-3 pe-3 relative pb-16">
   <h1 class="text-center sm:text-6xl text-4xl pb-10 font-bold">AKOMODASI</h1>
-  <div class="sm:relative flex sm:justify-evenly flex-wrap gap-y-20 text-center">
-    <div class="sm:w-[20%]">
-        <img
-        src="/assets/hotel-facade-1.jpg"
-        alt="hotel 1"
-        class="object-cover"
-      />
-      <div
-        class="sm:absolute bg-slate-100 sm:px-2 sm:py-2 py-4 rounded-md text-black sm:bottom-0 sm:left-[7.5%]"
-      >
-        <h2>Hotel Sari Jaya</h2>
-      </div>
-    </div>
+  <div
+    class="sm:relative flex sm:justify-evenly flex-wrap gap-y-20 text-center"
+  >
+    {
+      accommodationImages.map((image) => (
+        <div class="sm:w-2/5 border-2 border-bg-red-500 relative">
+          <img
+            src={image.image}
+            alt={image.alt}
+            class="object-cover aspect-video w-full"
+          />
 
-    <div class="sm:w-[20%]">
-      <img
-        src="/assets/hotel-facade-1.jpg"
-        alt="hotel 1"
-        class="object-cover"
-      />
-      <div
-        class="sm:absolute bg-slate-100 sm:px-2 sm:py-2 py-4 rounded-md text-black sm:bottom-0 sm:left-[32.5%]"
-      >
-        <h2>Hotel Sari Jaya</h2>
-      </div>
-    </div>
-
-    <div class="sm:w-[20%]">
-      <img
-        src="/assets/hotel-facade-1.jpg"
-        alt="hotel 1"
-        class="object-cover"
-      />
-      <div
-        class="sm:absolute bg-slate-100 sm:px-2 sm:py-2 py-4 rounded-md text-black sm:bottom-0 sm:right-[33%]"
-      >
-        <h2>Hotel Sari Jaya</h2>
-      </div>
-    </div>
-
-    <div class="sm:w-[20%]">
-      <img
-        src="/assets/hotel-facade-1.jpg"
-        alt="hotel 1"
-        class="object-cover"
-      />
-      <div
-        class="sm:absolute bg-slate-100 sm:px-2 sm:py-2 py-4 rounded-md text-black sm:bottom-0 sm:right-[8.5%]"
-      >
-        <h2>Hotel Sari Jaya</h2>
-      </div>
-    </div>
+          <div class="sm:absolute bg-slate-100 sm:px-2 sm:py-4 py-6 text-black bottom-0 left-0">
+            <h2>{image.title}</h2>
+          </div>
+        </div>
+      ))
+    }
   </div>
   <SeeMoreBtn href="/akomodasi/akomodasi/" />
 </section>
