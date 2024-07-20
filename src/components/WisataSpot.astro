@@ -3,22 +3,28 @@ export interface gridItem {
   title: string;
   image: string;
   alt: string;
+  slug: string;
 }
+
 
 interface Props {
   items: gridItem[];
 }
+
 const { items } = Astro.props;
 ---
 <div class="grid sm:grid-cols-4 sm:gap-x-8 sm:gap-y-14 gap-y-24 pt-10 sm:mb-10">
   {items.map((item) => (
     <article class="relative">
       <div class=" w-full border-2">
-        <img
+        <a href={`/wisata/${item.slug}`}>
+          <img
           src={item.image}
           alt={item.alt}
           class="w-full aspect-square object-cover object-center"
         />
+        </a>
+        
       </div>
       <div
         class="bg-zinc-200 text-gray-950 font-semibold w-max p-3 absolute -bottom-6 left-1/2 -translate-x-1/2"
