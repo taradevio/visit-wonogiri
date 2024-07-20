@@ -8,6 +8,7 @@ import ToTopButton from "../../components/ToTopButton.astro";
 import contentPages from '../../data/contentPages.json';
 
 const wisata = contentPages.wisata;
+
 ---
 
 <PagesBaseLayout title="WISATA">
@@ -21,7 +22,7 @@ const wisata = contentPages.wisata;
   <main>
     <section class="sm:ps-6 sm:pe-6 ps-3 pe-3 pb-32">
       <WisataFilter />
-      <WisataSpot items={wisata} />
+      <WisataSpot items={wisata}  />
     </section>
   </main>
   <FooterSection />
