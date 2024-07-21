@@ -87,72 +87,84 @@
 
   "kuliner": [
     {
+      "slug": "kacang-mete",
       "title": "Kacang Mete",
       "image": "https://media.karousell.com/media/photos/products/2024/1/24/kacang_mete_asli_wonogiri_grad_1706064190_c7f4fefb_progressive.jpg",
       "alt": "Kacang Mete by 'Kadho', courtesy of Carousell"
     },
 
     {
+      "slug": "emping",
       "title": "Emping",
       "image": "https://asset.kompas.com/crops/B3WM-y1wth-Prw0fIBx50krsMHg=/0x0:1000x667/750x500/data/photo/2020/08/17/5f3a2785bf7fd.jpg",
       "alt": "Emping by 'Oen Michael', courtesy of Kompas"
     },
 
     {
+      "slug": "sego-tiwul",
       "title": "Sego Tiwul",
       "image": "https://img.inews.co.id/media/822/files/inews_new/2020/09/16/IMG_16092020_114710__822_x_430_piksel_.jpg",
       "alt": "Sego Tiwul by 'Vien Dimyati', courtesy of iNews"
     },
 
     {
+      "slug": "geti-wijen",
       "title": "Geti Wijen",
       "image": "https://assets.kompasiana.com/items/album/2021/04/19/geti-yang-benar-607d17f6d541df25a54bae42.jpeg?t=o&v=740&x=416",
       "alt": "Geti Wijen by 'Tia Enjelina', courtesy of Kompasiana"
     },
 
     {
+      "slug": "bakso-wonogiri",
       "title": "Bakso Wonogiri",
       "image": "https://static.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/radarsolo/2021/10/bakso-wonogiri.jpg",
       "alt": "Bakso Wonogiri by 'Iwan Adiluhung', courtesy of Jawa Pos, Radar Solo"
     },
 
     {
+      "slug": "mie-ayam-wonogiri",
       "title": "Mie Ayam Wonogiri",
       "image": "https://akcdn.detik.net.id/community/media/visual/2024/01/23/mie-ayam-3.jpeg?w=680",
       "alt": "Mie Ayam Wonogiri by 'Google Review ', courtesy of Detikfood"
     },
 
     {
+      "slug": "brem-wonogiri",
       "title": "Brem Wonogiri",
       "image": "https://etnis.id/content/images/2019/10/brem.jpg",
       "alt": "Brem Wonogiri by 'Lupita Sundari ', courtesy of Etnis"
     },
 
     {
+      "slug": "sambal-cabuk",
       "title": "Sambal Cabuk",
       "image": "https://akcdn.detik.net.id/visual/2014/11/28/f5a41b59-840e-4693-a258-3e60aaed1655_169.jpg?w=650&q=90",
       "alt": "Sambal Cabuk by 'Christina Andhika Setyanti', courtesy of CNN Indonesia"
     },
 
     {
+      "slug": "lentho",
       "title": "Lentho",
       "image": "https://serayunews.pw/wp-content/uploads/2024/06/Lentho-Khas-Wonogiri.webp",
       "alt": "Lentho by 'jatengkita.id', courtesy of SerayuNews"
     },
 
     {
+      "slug": "roti-gaplek",
       "title": "Roti Gaplek",
       "image": "https://assets.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/2023/02/08/4171574867.jpeg",
       "alt": "Roti Gaplek by 'roti_gaplek_wonogiri1', courtesy of haluanjateng.com"
     },
 
     {
+      "slug": "gatot",
       "title": "Gatot",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/19._Gathot_2.jpg/800px-19._Gathot_2.jpg",
       "alt": "Gatot by 'Danangtrihartanto', courtesy of Wikipedia"
     },
 
     {
+      "slug": "tempe-benguk",
       "title": "Tempe Benguk",
       "image": "https://img-global.cpcdn.com/recipes/df64520a0222c219/640x640sq70/photo.webp",
       "alt": "Tempe Benguk by 'Ummu Aqim', courtesy of Cookpad"
