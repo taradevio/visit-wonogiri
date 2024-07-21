@@ -1,7 +1,7 @@
 ---
 import PostLayout from "../../layouts/PostLayout.astro";
 import FooterSection from "../../layouts/FooterSection.astro";
-import { spots } from '../../content/wisata/wisataSlug.json';
+import { spots } from "../../content/wisata/wisataSlug.json";
 
 export function getStaticPaths() {
   return spots.map((spot) => ({
@@ -15,22 +15,37 @@ const { spot } = Astro.props;
 
 <PostLayout title={spot.title}>
   <main>
-    <section>
-      <div class="flex justify-center items-center h-dvh border-b">
-        <div class="w-2/5 text-center space-y-4">
-            <h1 class="text-8xl font-bold">{spot.title}</h1>
-            <p class="text-2xl font-light text-justify px-7">{spot.subtitle}</p>
+    <section class="ps-4 pe-4">
+      <div class="sm:flex sm:justify-center sm:items-center sm:h-dvh border-b">
+        <div class="sm:w-2/5 space-y-4">
+          <h1 class="sm:text-8xl text-center sm:font-bold text-4xl font-semibold">{spot.title}</h1>
+          <p class="sm:text-2xl font-light text-justify sm:pr-4 sm:pt-3">{spot.subtitle}</p>
         </div>
-        <div class="w-3/5 h-full">
-          <img src={spot.heroImage} alt={spot.heroAlt} class="h-full aspect-video object-cover"/>
+        <div class="sm:w-3/5 w-full h-[90%]">
+          <img
+            src={spot.heroImage}
+            alt={spot.heroAlt}
+            class="h-full aspect-video object-cover"
+          />
         </div>
       </div>
     </section>
 
-    <section class="mt-[10%] mb-[12%]">
-      <div class="ms-72 me-72 space-y-5 text-justify">
-        <img src={spot.contentImage} alt={spot.contentAlt} class="block w-4/5 mx-auto aspect-video object-cover" />
-        <p class="text-xl leading-relaxed">{spot.content}</p>
+    <section class="sm:mt-[10%] mt-[25%] sm:mb-[12%] mb-[10%] ps-4 pe-4">
+      <div class="sm:ms-72 sm:me-72 sm:space-y-5 text-justify">
+        <p class="sm:text-xl leading-relaxed pt-3">{spot.content}</p>
+        <figure class="sm:py-5 py-10">
+          <img
+            src={spot.contentImage}
+            alt={spot.contentAlt}
+            class="block sm:w-4/5 mx-auto aspect-video object-cover"
+          />
+          <figcaption>{spot.contentAlt}</figcaption>
+        </figure>
+
+        <p class="sm:text-xl leading-relaxed">{spot.content}</p>
+        <br />
+        <p class="sm:text-xl leading-relaxed">{spot.content}</p>
       </div>
     </section>
     <FooterSection />
