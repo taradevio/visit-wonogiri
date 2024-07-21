@@ -9,15 +9,16 @@ export interface gridItem {
 
 interface Props {
   items: gridItem[];
+  basePath: string;
 }
 
-const { items } = Astro.props;
+const { items, basePath } = Astro.props;
 ---
 <div class="grid sm:grid-cols-4 sm:gap-x-8 sm:gap-y-14 gap-y-24 pt-10 sm:mb-10">
   {items.map((item) => (
     <article class="relative">
       <div class=" w-full border-2">
-        <a href={`/wisata/${item.slug}`}>
+        <a href={`/${basePath}/${item.slug}`}>
           <img
           src={item.image}
           alt={item.alt}
