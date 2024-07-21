@@ -1,0 +1,59 @@
+---
+import PostLayout from "../../layouts/PostLayout.astro";
+import FooterSection from "../../layouts/FooterSection.astro";
+import { kuliners } from "../../content/kuliner/kulinerSlug.json";
+
+export function getStaticPaths() {
+  return kuliners.map((kuliner) => ({
+    params: { slug: kuliner.slug },
+    props: { kuliner },
+  }));
+}
+
+const { kuliner } = Astro.props;
+---
+
+<PostLayout title={kuliner.title}>
+  <main>
+    <section class="ps-4 pe-4">
+      <div class="sm:flex sm:justify-center sm:items-center sm:h-dvh border-b">
+        <div class="sm:w-2/5 space-y-4">
+          <h1
+            class="sm:text-8xl text-center sm:font-bold text-4xl font-semibold"
+          >
+            {kuliner.title}
+          </h1>
+          <p class="sm:text-2xl font-light text-justify sm:pr-4 sm:pt-3">
+            {kuliner.subtitle}
+          </p>
+        </div>
+        <div class="sm:w-3/5 w-full h-[90%]">
+          <img
+            src={kuliner.heroImage}
+            alt={kuliner.heroAlt}
+            class="h-full aspect-video object-cover"
+          />
+        </div>
+      </div>
+    </section>
+
+    <section class="sm:mt-[10%] mt-[25%] sm:mb-[12%] mb-[10%] ps-4 pe-4">
+      <div class="sm:ms-72 sm:me-72 sm:space-y-5 text-justify">
+        <p class="sm:text-xl leading-relaxed pt-3">{kuliner.content}</p>
+        <figure class="sm:py-5 py-10">
+          <img
+            src={kuliner.contentImage}
+            alt={kuliner.contentAlt}
+            class="block sm:w-4/5 mx-auto aspect-video object-cover"
+          />
+          <figcaption>{kuliner.contentAlt}</figcaption>
+        </figure>
+
+        <p class="sm:text-xl leading-relaxed">{kuliner.content}</p>
+        <br />
+        <p class="sm:text-xl leading-relaxed">{kuliner.content}</p>
+      </div>
+    </section>
+    <FooterSection />
+  </main>
+</PostLayout>
