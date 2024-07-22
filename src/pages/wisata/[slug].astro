@@ -25,7 +25,7 @@ const { spot } = Astro.props;
           <img
             src={spot.heroImage}
             alt={spot.heroAlt}
-            class="h-full aspect-video object-cover"
+            class="h-full w-full sm:aspect-video aspect-square object-cover"
           />
         </div>
       </div>
@@ -38,7 +38,7 @@ const { spot } = Astro.props;
           <img
             src={spot.contentImage}
             alt={spot.contentAlt}
-            class="block sm:w-4/5 mx-auto aspect-video object-cover"
+            class="block sm:w-4/5 w-full mx-auto sm:aspect-video aspect-square object-cover"
           />
           <figcaption>{spot.contentAlt}</figcaption>
         </figure>
