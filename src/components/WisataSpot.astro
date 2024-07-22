@@ -3,34 +3,42 @@ export interface gridItem {
   title: string;
   image: string;
   alt: string;
-  slug: string;
+  slug?: string;
+  externalUrl?: string;
 }
-
 
 interface Props {
   items: gridItem[];
-  basePath: string;
+  basePath?: string;
 }
 
 const { items, basePath } = Astro.props;
 ---
+
 <div class="grid sm:grid-cols-4 sm:gap-x-8 sm:gap-y-14 gap-y-24 pt-10 sm:mb-10">
-  {items.map((item) => (
-    <article class="relative">
-      <div class=" w-full border-2">
-        <a href={`/${basePath}/${item.slug}`}>
-          <img
-          src={item.image}
-          alt={item.alt}
-          class="w-full aspect-square object-cover object-center"
-        />
-        </a>
-        
-      </div>
-      <div
-        class="bg-zinc-200 text-gray-950 font-semibold w-max p-3 absolute -bottom-6 left-1/2 -translate-x-1/2"
-      >
-        <h2>{item.title}</h2>
-      </div>
-    </article>
-  ))}
+  {
+    items.map((item) => (
+      <article class="relative">
+        <div class=" w-full border-2">
+          <a
+            href={
+              item.externalUrl ||
+              (item.slug ? `/${basePath}/${item.slug}` : "#")
+            }
+            target={item.externalUrl ? "_blank" : undefined}
+            rel={item.externalUrl ? "noopener noreferrer" : undefined}
+          >
+            <img
+              src={item.image}
+              alt={item.alt}
+              class="w-full aspect-square object-cover object-center"
+            />
+          </a>
+        </div>
+        <div class="bg-zinc-200 text-gray-950 font-semibold w-max p-3 absolute -bottom-6 left-1/2 -translate-x-1/2">
+          <h2>{item.title}</h2>
+        </div>
+      </article>
+    ))
+  }
+</div>
