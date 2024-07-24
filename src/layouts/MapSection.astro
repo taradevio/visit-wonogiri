@@ -1,5 +1,7 @@
 ---
-
+import { Image } from "astro:assets";
+import centralJavaMap from '../assets/Peta/centralJavaMap.jpg';
+import wonogiriRegency from '../assets/Peta/wonogiriRegency.png';
 ---
 
 <section class="sm:ps-6 sm:pe-6 ps-3 pe-3 mb-[10%]">
@@ -9,10 +11,10 @@
             <h1>Map of Central Java</h1>
         </div>
         <div class="sm:w-6/12">
-            <img src="/assets/central-java-map.jpg" alt="Central Java Map" class="block mx-auto sm:w-11/12 w-full">
+            <Image src={centralJavaMap} alt="Central Java Map" class="block mx-auto sm:w-11/12 w-full" loading="lazy" decoding="async">
         </div>
         <div class="sm:w-6/12">
-            <img src="/assets/wonogiri-regency.png" alt="Wonogiri Regency" usemap="#image-map" class="block mx-auto sm:w-4/5 w-full">
+            <Image src={wonogiriRegency} alt="Wonogiri Regency" usemap="#image-map" class="block mx-auto sm:w-4/5 w-full" loading="lazy" decoding="async">
             <map name="image-map">
                 <area target="_blank" alt="paranggupito" title="paranggupito" href="https://id.wikipedia.org/wiki/Paranggupito,_Wonogiri" coords="140,480,71" shape="circle" class="hover:bg-red-500"></area>
             </map>
