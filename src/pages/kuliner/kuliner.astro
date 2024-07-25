@@ -1,7 +1,6 @@
 ---
 import PagesBaseLayout from "../../layouts/PagesBaseLayout.astro";
 import WisataHeroSection from "../../layouts/wisata/WisataHeroSection.astro";
-import WisataFilter from "../../components/WisataFilter.astro";
 import WisataSpot from "../../components/WisataSpot.astro";
 import FooterSection from "../../layouts/FooterSection.astro";
 import ToTopButton from "../../components/ToTopButton.astro";
@@ -19,8 +18,7 @@ const kuliner = contentPages.kuliner
     />
   </header>
   <main>
-    <section class="sm:ps-6 sm:pe-6 ps-3 pe-3 pb-32">
-      <WisataFilter />
+    <section class="sm:ps-6 sm:pe-6 ps-3 pe-3 mb-[10%]">
       <WisataSpot items={kuliner} basePath="kuliner"/>
     </section>
   </main>

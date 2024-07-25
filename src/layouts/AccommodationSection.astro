@@ -5,21 +5,21 @@ import contentPages from "../data/contentPages.json";
 const accommodationImages = contentPages.akomodasi.slice(1, 7);
 ---
 
-<section id="lodging" class="my-8 sm:ps-6 sm:pe-6 ps-3 pe-3 relative pb-16">
+<section id="lodging" class="sm:ps-6 sm:pe-6 ps-3 pe-3 pb-20 mb-[10%] relative">
   <h1 class="text-center sm:text-6xl text-4xl pb-10 font-bold">AKOMODASI</h1>
   <div
     class="sm:relative flex sm:justify-evenly flex-wrap gap-y-20 text-center"
   >
     {
       accommodationImages.map((image) => (
-        <div class="sm:w-2/5 border-2 border-bg-red-500 relative">
+        <div class="sm:w-2/5 relative">
           <img
             src={image.image}
             alt={image.alt}
             class="object-cover aspect-video w-full"
           />
 
-          <div class="sm:absolute bg-slate-100 sm:px-2 sm:py-4 py-6 text-black bottom-0 left-0">
+          <div class="sm:absolute bg-white sm:px-2 sm:py-4 py-6 text-black bottom-0 left-0">
             <h2>{image.title}</h2>
           </div>
         </div>
