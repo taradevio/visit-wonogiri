@@ -3,9 +3,9 @@
 ---
 
 <nav
-  class="navbar bg-amber-100 sm:py-3 sm:mt-6 flex absolute justify-between w-full z-[3]"
+  class="navbar bg-reddish sm:py-3 sm:mt-6 flex absolute justify-between w-full z-[3]"
 >
-  <div class="border-5 border-green-500 flex-shrink-0">
+  <div class="flex-shrink-0">
     <img
       src="https://upload.wikimedia.org/wikipedia/commons/6/63/Seal_of_Wonogiri_Regency.svg"
       alt="Logo Pemkab Wonogiri"
@@ -13,10 +13,10 @@
     />
   </div>
 
-  <div class="sm:drawer border-5 border-blue-500 navbar-end">
+  <div class="sm:drawer navbar-end">
     <input id="my-drawer" type="checkbox" class="drawer-toggle" />
     <!-- Drawer button for desktop -->
-    <div class="hidden sm:block bg-red-500 btn-circle">
+    <div class="hidden sm:block bg-yellowish btn-circle">
       <label for="my-drawer" class="btn btn-ghost btn-circle drawer-button">
         <svg
           xmlns="http://www.w3.org/2000/svg"
@@ -34,7 +34,7 @@
       </label>
     </div>
     <!-- Dropdown for mobile -->
-    <div class="sm:hidden dropdown dropdown-end bg-red-500 btn-circle">
+    <div class="sm:hidden dropdown dropdown-end bg-yellowish btn-circle">
       <label tabindex="0" class="btn btn-ghost btn-circle">
         <svg
           xmlns="http://www.w3.org/2000/svg"
@@ -52,16 +52,16 @@
       </label>
       <ul
         tabindex="0"
-        class="dropdown-content menu bg-base-100 rounded-box z-[1] w-52 p-2 shadow"
+        class="dropdown-content menu bg-yellowish text-blue rounded-box z-[1] w-52 shadow"
       >
-        <li><a href="/" class="hover:underline">Home</a></li>
+        <li><a href="/" class="hover:underline">🏠 Home</a></li>
         <li>
-          <a href="/akomodasi/akomodasi" class="hover:underline">Akomodasi</a>
+          <a href="/akomodasi/akomodasi" class="hover:underline">🏨 Akomodasi</a>
         </li>
         <li>
-          <a href="/kuliner/kuliner" class="hover:underline">Kuliner</a>
+          <a href="/kuliner/kuliner" class="hover:underline">🍛 Kuliner</a>
         </li>
-        <li><a href="/wisata/wisata" class="hover:underline">Wisata</a></li>
+        <li><a href="/wisata/wisata" class="hover:underline">🌲 Wisata</a></li>
       </ul>
     </div>
 
@@ -70,30 +70,36 @@
       <label for="my-drawer" aria-label="close sidebar" class="drawer-overlay"
       ></label>
       <div
-        class="sm:flex hidden items-center sm:w-7/12 sm:min-h-full bg-red-200 text-base-content"
+        class="sm:flex hidden items-center sm:w-7/12 sm:min-h-full bg-yellowish text-blue"
       >
         <div class="w-1/2">
           <h1 class="text-6xl pb-8 text-center">Visit Wonogiri</h1>
-          <ul class="w-max mx-auto">
-            <li><a href="/" class="hover:underline">Home</a></li>
+          <ul class="text-2xl pl-4 space-y-4">
             <li>
+              🏠
+              <a href="/" class="hover:underline">Home</a>
+            </li>
+            <li>
+              🏨
               <a href="/akomodasi/akomodasi" class="hover:underline"
                 >Akomodasi</a
               >
             </li>
             <li>
+              🍛
               <a href="/kuliner/kuliner" class="hover:underline">Kuliner</a>
             </li>
             <li>
+              🌲
               <a href="/wisata/wisata" class="hover:underline">Wisata</a>
             </li>
           </ul>
         </div>
         <div class="w-1/2 hidden sm:block">
           <img
-            src="https://images.pexels.com/photos/1694631/pexels-photo-1694631.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-            alt="man standing on grass"
-            class="w-full h-screen"
+            src="https://i.pinimg.com/736x/7c/be/af/7cbeafc5cd717a4150a723718edff364.jpg"
+            alt="Bukit Cumbri by lutfidhany, Courtesy of Pinterest"
+            class="w-full h-screen object-cover"
           />
         </div>
       </div>
