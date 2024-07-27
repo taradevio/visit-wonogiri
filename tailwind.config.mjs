@@ -11,7 +11,10 @@ export default {
     extend: {
       backgroundImage: {
         'nampu': "url('https://i.pinimg.com/736x/e9/f8/50/e9f850c6aeef44604f8307c4541796d3.jpg')"
-      }
+      },
+      fontFamily: {
+        raleway: ["Raleway", "sans-serif"],
+      },
     }
   },
   plugins: [require("daisyui")],
