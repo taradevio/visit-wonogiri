@@ -4,12 +4,14 @@
       "slug": "pantai-nampu",
       "title": "Pantai Nampu",
       "subtitle": " Surga Tersembunyi dengan Pasir Putih dan Ombak Biru",
-      "heroImage": "https://images.pexels.com/photos/457882/pexels-photo-457882.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-      "heroAlt": "Beach",
-      "firstPara": "Pantai Nampu adalah salah satu destinasi wisata alam yang memukau di Kabupaten Wonogiri, Jawa Tengah. Terletak di Kecamatan Paranggupito, pantai ini menawarkan keindahan alam yang menakjubkan dan sering kali disebut sebagai surga tersembunyi karena lokasinya yang relatif terpencil namun menyimpan pesona yang luar biasa",
-      "secondPara": "Lokasi",
-      "contentImage": "https://www.jogjasuper.co.id/wp-content/uploads/2023/01/Pantai-Nampu.jpg",
-      "contentAlt": "Pantai Nampu"
+      "heroImage": "https://cdn.idntimes.com/content-images/community/2022/08/fromandroid-6bb49dfef4d2a0dcc4c2364a312a13ab.jpg",
+      "heroAlt": "Pantai Nampu by 'jepretsanasini12', courtesy of IDN Times",
+      "firstPara": "Pantai Nampu terletak di Kabupaten Wonogiri, Jawa Tengah, Pantai ini menawarkan keindahan alam yang masih relatif terjaga dan menjadi destinasi yang menarik bagi wisatawan yang mencari suasana tenang dan juga pemandangan menakjubkan.",
+      "secondPara": "Karakteristik utama Pantai Nampu adalah pasir putihnya yang lembut dan air laut berwarna biru kehijauan. Tebing-tebing karang yang mengelilingi pantai menambah daya tarik visual dan menciptakan pemandangan yang memukau. Formasi batuan unik di sekitar pantai juga menjadi objek menarik untuk dijelajahi dan diabadikan." ,
+      "thirdPara": "Akses menuju Pantai Nampu terbilang cukup menantang, namun hal ini justru menjadi daya tarik tersendiri bagi para pencinta petualangan. Perjalanan melewati bukit dan hutan menambah pengalaman unik sebelum tiba di pantai.",
+      "contentImage": "https://thumb.viva.co.id/media/frontend/thumbs3/2022/05/07/6276905e7a783-pantai-nampu_1265_711.jpg",
+      "contentAlt": "Pantai Nampu by 'Agus Setiawan', Courtesy of Viva",
+      "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d126371.59439759333!2d110.71500957434246!3d-8.19143882233221!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7bc35eaaaaaaab%3A0x10dbfa317c783634!2sPantai%20Nampu!5e0!3m2!1sen!2sid!4v1721736185405!5m2!1sen!2sid"
     },
 
     {
@@ -18,20 +20,26 @@
       "subtitle": "brief description",
       "heroImage": "https://cdn.idntimes.com/content-images/community/2022/02/195213724-817890268857711-5002097877955138912-n-8ecb9f847d1d5a2af5f080fe723b5416-71894c80463c14b117664a474695e591.jpg",
       "heroAlt": "Bukit Cumbri",
-      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi at ligula sem. Donec nunc risus, convallis vitae odio sit amet, viverra scelerisque risus. Praesent ac tincidunt dui. Duis et egestas quam, in ullamcorper nunc. Nam imperdiet leo eu dignissim tristique. Pellentesque enim nisl, tristique sit amet sagittis eget, pharetra quis libero. Integer sit amet ante quis justo finibus lacinia. Quisque aliquam id arcu eget feugiat. Nulla tristique justo vel malesuada tempus. Sed at egestas nisi, eu pharetra lectus. Sed eget posuere felis, non ultricies metus.",
-      "contentImage": "https://cdn.idntimes.com/content-images/community/2022/02/195213724-817890268857711-5002097877955138912-n-8ecb9f847d1d5a2af5f080fe723b5416-71894c80463c14b117664a474695e591.jpg",
-      "contentAlt": "bukit cumbri"
+      "firstPara": "Bukit Cumbri menawarkan panorama alam yang memukau. Tepatnya berada di dusun Ngudal, desa Pagerukir, Kecamatan Purwantoro, Kabupaten Wonogiri, Jawa Tengah, destinasi ini menjadi daya tarik bagi para pecinta alam dan fotografer yang mencari keindahan lanskap perbukitan.",
+      "secondPara": "Bukit Cumbri terkenal dengan pemandangan spektakulernya, terutama saat fajar dan senja. Dari puncaknya, pengunjung dapat menikmati hamparan hijau perbukitan dan lembah di sekitarnya. Pemandangan matahari terbit dan terbenam yang memukau menjadi daya tarik utama bagi para pengunjung." ,
+      "thirdPara": "Perjalanan menuju puncak Bukit Cumbri menawarkan pengalaman tersendiri. Jalur pendakian yang relatif mudah membuatnya cocok untuk berbagai kalangan, mulai dari pendaki pemula hingga yang berpengalaman. Sepanjang perjalanan, pengunjung akan disuguhi pemandangan hutan dan vegetasi khas perbukitan Wonogiri.",
+      "contentImage": "https://asset.kompas.com/crops/4ckqL22cpneNIpOOJXCt2Ejqet8=/0x0:1800x1200/750x500/data/photo/2021/07/12/60ec62a3157ba.jpg",
+      "contentAlt": "Bukit Cumbri by 'Anggara Wikan Prasetya', Courtesy of Kompas",
+      "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3952.5178704319924!2d111.30330667422437!3d-7.840739677903407!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e799cbd2f04aca5%3A0x98e3e0844873896!2sBukit%20Cumbri!5e0!3m2!1sen!2sid!4v1722166784068!5m2!1sen!2sid"
     },
 
     {
       "slug": "museum-karst",
       "title": "Museum Karst",
       "subtitle": "brief description",
-      "heroImage": "https://imgcdn.solopos.com/@space/2022/11/Museum-Karst-di-Wonogiri.jpg",
-      "heroAlt": "Karst",
-      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi at ligula sem. Donec nunc risus, convallis vitae odio sit amet, viverra scelerisque risus. Praesent ac tincidunt dui. Duis et egestas quam, in ullamcorper nunc. Nam imperdiet leo eu dignissim tristique. Pellentesque enim nisl, tristique sit amet sagittis eget, pharetra quis libero. Integer sit amet ante quis justo finibus lacinia. Quisque aliquam id arcu eget feugiat. Nulla tristique justo vel malesuada tempus. Sed at egestas nisi, eu pharetra lectus. Sed eget posuere felis, non ultricies metus.",
+      "heroImage": "https://d2r666iofyzcf5.cloudfront.net/wp-content/uploads/2021/01/MUSEUM-KARST-INDONESIA-01-07.jpg",
+      "heroAlt": "Museum Karst by Heru Sri Kumoro, Courtesy of Kompas",
+      "firstPara": "Terletak di Desa Gebangharjo, Kecamatan Pracimantoro, Kabupaten Wonogiri, Jawa Tengah, Museum Karst menjadi destinasi edukasi yang unik dan menarik. Museum ini didedikasikan untuk memperkenalkan dan mengedukasi pengunjung tentang fenomena karst, sebuah bentang alam yang terbentuk dari pelarutan batuan kapur.",
+      "secondPara": "Di dalam museum, pengunjung dapat menjelajahi berbagai exhibit yang menjelaskan proses pembentukan karst, jenis-jenis batuan, fosil, dan artefak yang ditemukan di kawasan karst. Diorama dan model 3D membantu visualisasi bentang alam karst, termasuk gua-gua dan sungai bawah tanah yang khas." ,
+      "thirdPara": "Dengan lokasinya yang strategis di kawasan karst Gunung Sewu, Museum Karst menjadi pintu gerbang ideal bagi wisatawan yang ingin menjelajahi keindahan alam karst di sekitar Wonogiri. Museum ini menawarkan wawasan berharga sebelum pengunjung melanjutkan perjalanan ke gua-gua dan formasi karst lainnya di wilayah tersebut.",
       "contentImage": "https://imgcdn.solopos.com/@space/2022/11/Museum-Karst-di-Wonogiri.jpg",
-      "contentAlt": "Karst"
+      "contentAlt": "Museum Karst by 'disporaparwonogiri', courtesy of Solopos",
+      "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3950.6132187439493!2d110.7811978242277!3d-8.038751980271961!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7bc96aa481de0b%3A0x54bda4a6157125d4!2sMuseum%20Karst%20Indonesia!5e0!3m2!1sen!2sid!4v1722167976907!5m2!1sen!2sid"
     },
 
     {
@@ -39,10 +47,12 @@
       "title": "Istana Parnaraya",
       "subtitle": "brief description",
       "heroImage": "https://asset-a.grid.id/crop/0x0:0x0/800x600/filters:format(webp)/photo/ideafoto/original/17381_habiskan-1-milyar-ini-dia-istana-negara-di-wonogiri-yang-jadi-tempat-wisata.jpg",
-      "heroAlt": "Istana Parnaraya",
-      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi at ligula sem. Donec nunc risus, convallis vitae odio sit amet, viverra scelerisque risus. Praesent ac tincidunt dui. Duis et egestas quam, in ullamcorper nunc. Nam imperdiet leo eu dignissim tristique. Pellentesque enim nisl, tristique sit amet sagittis eget, pharetra quis libero. Integer sit amet ante quis justo finibus lacinia. Quisque aliquam id arcu eget feugiat. Nulla tristique justo vel malesuada tempus. Sed at egestas nisi, eu pharetra lectus. Sed eget posuere felis, non ultricies metus.",
-      "contentImage": "https://asset-a.grid.id/crop/0x0:0x0/800x600/filters:format(webp)/photo/ideafoto/original/17381_habiskan-1-milyar-ini-dia-istana-negara-di-wonogiri-yang-jadi-tempat-wisata.jpg",
-      "contentAlt": "Parnaraya"
+      "heroAlt": "Istana Parnaraya by 'istana_parnaraya', courtesy of IDEA",
+      "firstPara": "Istana Parnaraya dibangun oleh Bapak Suparno, seorang pengusaha di bidang Otomotif. Bangunan ini sendiri memiliki empat bagian di dalamnya. Bagian pertama adalah ruang kunjungan. Bagian kedua adalah area penjualan oleh-oleh. Bagian ketiga adalah kafe dengan desain yang instagramable. Bagian keempat adalah bioskop yang menayangkan video-video inspiratif. ",
+      "thirdPara": "Istana Parnaraya ini terletak di Desa Kebonagung, Kecamatan Sidoharjo, Kabupaten Wonogiri, Jawa Tengah.",
+      "contentImage": "https://asset.kompas.com/crops/LAorEAZd1V_kFlazLQFqkEXcFuM=/0x64:1080x784/750x500/data/photo/2020/12/08/5fcf2ca78f96c.jpg",
+      "contentAlt": "Istana Parnaraya by @istana_parnaraya, Courtesy of Kompas",
+      "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3952.212972672032!2d111.0539987742249!3d-7.87277027828222!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a2a4fea391977%3A0x5112b9c25be2b17d!2sParnaraya%20Palace!5e0!3m2!1sen!2sid!4v1722168269582!5m2!1sen!2sid"
     },
 
     {
@@ -51,9 +61,12 @@
       "subtitle": "brief description",
       "heroImage": "https://cdn.idntimes.com/content-images/community/2022/04/fromandroid-38cf1d7f8b6c3884a52f20dbbaea4d18.jpg",
       "heroAlt": "Pantai Sembukan by 'explore_wonogiri', courtesy of IDN Times",
-      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi at ligula sem. Donec nunc risus, convallis vitae odio sit amet, viverra scelerisque risus. Praesent ac tincidunt dui. Duis et egestas quam, in ullamcorper nunc. Nam imperdiet leo eu dignissim tristique. Pellentesque enim nisl, tristique sit amet sagittis eget, pharetra quis libero. Integer sit amet ante quis justo finibus lacinia. Quisque aliquam id arcu eget feugiat. Nulla tristique justo vel malesuada tempus. Sed at egestas nisi, eu pharetra lectus. Sed eget posuere felis, non ultricies metus.",
-      "contentImage": "https://cdn.idntimes.com/content-images/community/2022/04/fromandroid-38cf1d7f8b6c3884a52f20dbbaea4d18.jpg",
-      "contentAlt": "Pantai Sembukan by 'explore_wonogiri', courtesy of IDN Times"
+      "firstPara": "Pantai Sembukan terletak di Kecamatan Paranggupito, Kabupaten Wonogiri, Jawa Tengah. Pantai ini dikenal dengan pesonanya yang alami dan keindahan alam yang menakjubkan, menjadikannya sebagai salah satu destinasi wisata yang menarik di daerah tersebut.",
+      "secondPara": "Keunikan Pantai Sembukan terletak pada hamparan pasir putihnya yang bersih dan air laut yang jernih. Suasana tenang dan sejuk di sekitar pantai membuatnya menjadi tempat yang ideal untuk bersantai, berjemur, atau menikmati keindahan alam. Selain itu, pantai ini dikelilingi oleh tebing-tebing karang yang menambah keindahan pemandangan." ,
+      "thirdPara": "Fasilitas di Pantai Sembukan masih tergolong sederhana, namun hal ini justru menambah daya tariknya bagi wisatawan yang mencari ketenangan jauh dari keramaian. Terdapat beberapa warung kecil yang menjual makanan dan minuman lokal, memungkinkan pengunjung untuk mencicipi kuliner khas daerah.",
+      "contentImage": "https://imgcdn.solopos.com/@space/2021/02/IMG-20210219-WA0015.jpg",
+      "contentAlt": "Pantai Sembukan by 'M. Aris Munandar', courtesy of Solopos",
+      "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15795.937750399908!2d110.83415323549899!3d-8.204318381009605!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a2fbaaaaaaaab%3A0x4f33770ed23bcfda!2sPantai%20Sembukan!5e0!3m2!1sen!2sid!4v1722169832461!5m2!1sen!2sid"
     },
 
     {
@@ -62,9 +75,12 @@
       "subtitle": "brief description",
       "heroImage": "https://cdn.idntimes.com/content-images/community/2022/02/241737284-4464125830361714-7364362095145991259-n-991261402fc9d0e135093cb05a6c0c3a-9509db483ecd8b9f931dc4b0982cb57c.jpg",
       "heroAlt": "Goa Resi by 'goaresi', courtesy of IDN Times",
-      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi at ligula sem. Donec nunc risus, convallis vitae odio sit amet, viverra scelerisque risus. Praesent ac tincidunt dui. Duis et egestas quam, in ullamcorper nunc. Nam imperdiet leo eu dignissim tristique. Pellentesque enim nisl, tristique sit amet sagittis eget, pharetra quis libero. Integer sit amet ante quis justo finibus lacinia. Quisque aliquam id arcu eget feugiat. Nulla tristique justo vel malesuada tempus. Sed at egestas nisi, eu pharetra lectus. Sed eget posuere felis, non ultricies metus.",
-      "contentImage": "https://cdn.idntimes.com/content-images/community/2022/02/241737284-4464125830361714-7364362095145991259-n-991261402fc9d0e135093cb05a6c0c3a-9509db483ecd8b9f931dc4b0982cb57c.jpg",
-      "contentAlt": "Goa Resi by 'goaresi', courtesy of IDN Times"
+      "firstPara": "Goa Resi adalah salah satu destinasi wisata alam yang menarik di Kabupaten Wonogiri, Jawa Tengah. Terletak di Desa Conto, Kecamatan Bulukerto, goa ini menawarkan keindahan alam yang memukau dengan stalaktit dan stalagmit yang terjaga keindahannya",
+      "secondPara": "Salah satu daya tarik utama Goa Resi adalah desain interior gua yang dihiasi dengan lampu-lampu berwarna, menciptakan suasana yang magis. Di luar gua, terdapat Taman Batu Kapur yang menjadi spot foto favorit pengunjung. Area ini menawarkan pemandangan alam yang indah dan tempat duduk yang nyaman untuk bersantai sambil menikmati keindahan sekitar." ,
+      "thirdPara": "Goa Resi dapat diakses dengan mudah menggunakan kendaraan roda dua maupun roda empat. Namun, untuk kendaraan roda empat, disarankan untuk parkir di area bawah dan menggunakan shuttle bus yang disediakan dengan biaya terjangkau",
+      "contentImage": "https://imgcdn.solopos.com/@space/2022/06/goa-resi-wonogiri-2.jpg",
+      "contentAlt": "Goa Resi by 'Luthfi Shobri Marzuqi', courtesy of Solopos",
+      "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3953.4366086866657!2d111.20211427422272!3d-7.743426876762806!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e798fdcd098f745%3A0x224b0b8a599794a8!2sGOA%20RESI!5e0!3m2!1sen!2sid!4v1722170619991!5m2!1sen!2sid"
     },
 
     {
@@ -73,9 +89,12 @@
       "subtitle": "brief description",
       "heroImage": "https://cdn.idntimes.com/content-images/community/2022/10/103544989-170982881059332-5648056194209692117-n-f61de0315e91864f71e659e231237cad-d41b2363bb201d0aaf8d75d2d250b93b.jpg",
       "heroAlt": "Waduk Gajah Mungkur by 'explore_wonogiri', courtesy of IDN Times",
-      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi at ligula sem. Donec nunc risus, convallis vitae odio sit amet, viverra scelerisque risus. Praesent ac tincidunt dui. Duis et egestas quam, in ullamcorper nunc. Nam imperdiet leo eu dignissim tristique. Pellentesque enim nisl, tristique sit amet sagittis eget, pharetra quis libero. Integer sit amet ante quis justo finibus lacinia. Quisque aliquam id arcu eget feugiat. Nulla tristique justo vel malesuada tempus. Sed at egestas nisi, eu pharetra lectus. Sed eget posuere felis, non ultricies metus.",
-      "contentImage": "https://cdn.idntimes.com/content-images/community/2022/10/103544989-170982881059332-5648056194209692117-n-f61de0315e91864f71e659e231237cad-d41b2363bb201d0aaf8d75d2d250b93b.jpg",
-      "contentAlt": "Waduk Gajah Mungkur by 'explore_wonogiri', courtesy of IDN Times"
+      "firstPara": "Waduk Gajah Mungkur terletak di Kabupaten Wonogiri, Jawa Tengah, dan merupakan salah satu proyek infrastruktur besar yang dibangun untuk mengendalikan banjir, menyediakan irigasi, dan sebagai sumber energi listrik. Pembangunan waduk ini dimulai pada tahun 1976 dan diresmikan pada 17 November 1981 oleh Presiden Soeharto.",
+      "secondPara": "Keberadaan waduk ini mengharuskan pemindahan lebih dari 67.000 penduduk dari 51 desa, yang menjadi bagian dari sejarah pembangunan waduk tersebut. Pengorbanan mereka dikenang dengan adanya Patung Bedol Desa yang terletak tidak jauh dari kawasan wisata" ,
+      "thirdPara": "Seiring berjalannya waktu, Waduk Gajah Mungkur dikembangkan menjadi objek wisata. Pengunjung dapat menikmati berbagai aktivitas, seperti: wisata perahu, memancing, dan fasilitas rekreasi",
+      "contentImage": "https://asset.kompas.com/crops/HvK4540rzVDl8vW6I1_cUfNpo7Q=/0x0:1800x1200/750x500/data/photo/2024/01/28/65b5c3973d983.jpg",
+      "contentAlt": "Waduk Gajah Mungkur by 'Anggara Wikan Prasetya', Courtesy of Kompas",
+      "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d126459.61397124964!2d110.82389321934929!3d-7.909383884228903!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a2d6106af063b%3A0x4f17f74c43526f2c!2sWaduk%20Gajahmungkur%2C%20Wonogiri%20Regency%2C%20Central%20Java!5e0!3m2!1sen!2sid!4v1722170902165!5m2!1sen!2sid"
     },
 
     {
@@ -84,9 +103,12 @@
       "subtitle": "brief description",
       "heroImage": "https://wisato.id/wp-content/uploads/2023/08/Telaga-Claket.jpg",
       "heroAlt": "Waduk Gajah Mungkur by 'explore_wonogiri', courtesy of IDN Times",
-      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi at ligula sem. Donec nunc risus, convallis vitae odio sit amet, viverra scelerisque risus. Praesent ac tincidunt dui. Duis et egestas quam, in ullamcorper nunc. Nam imperdiet leo eu dignissim tristique. Pellentesque enim nisl, tristique sit amet sagittis eget, pharetra quis libero. Integer sit amet ante quis justo finibus lacinia. Quisque aliquam id arcu eget feugiat. Nulla tristique justo vel malesuada tempus. Sed at egestas nisi, eu pharetra lectus. Sed eget posuere felis, non ultricies metus.",
-      "contentImage": "https://wisato.id/wp-content/uploads/2023/08/Telaga-Claket.jpg",
-      "contentAlt": "Telaga Claket by 'antsayvin', courtesy of Wisato"
+      "firstPara": "Telaga Claket adalah sebuah objek wisata yang terletak di Desa Sendangijo, Kecamatan Selogiri, Kabupaten Wonogiri, Jawa Tengah. Telaga ini menawarkan pemandangan alam yang menakjubkan dengan air yang jernih dan dikelilingi oleh bukit-bukit hijau, menjadikannya tempat yang ideal untuk bersantai dan menikmati keindahan alam.",
+      "secondPara": "Telaga Claket menyajikan panorama yang mirip dengan danau Ranu Kumbolo yang terkenal di Jawa Timur. Pengunjung dapat menikmati suasana tenang dan sejuk, serta melakukan berbagai aktivitas seperti berfoto, piknik, atau sekadar menikmati keindahan alam." ,
+      "thirdPara": "Telaga Claket dapat diakses dengan mudah dari pusat kota Wonogiri, hanya membutuhkan waktu sekitar 30 menit berkendara. Objek wisata ini buka setiap hari mulai pukul 07.00 WIB hingga 18.00 WIB, sehingga pengunjung dapat datang kapan saja untuk menikmati keindahan telaga.",
+      "contentImage": "https://imgcdn.solopos.com/@space/2022/08/Telaga-Claket-Wonogiri.jpeg",
+      "contentAlt": "Telaga Claket by 'arofah_1806', courtesy of Solopos",
+      "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3953.298281457595!2d110.90541797422297!3d-7.7581560769344495!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a254debc1b41d%3A0xff177875ba6eb48f!2sTelaga%20Claket!5e0!3m2!1sen!2sid!4v1722172291816!5m2!1sen!2sid"
     },
 
     {
@@ -95,9 +117,12 @@
       "subtitle": "In Japan there are marked changes in the four seasons, and the trees and flowers appear different in each season, including the cherry blossoms in spring and the autumn leaves in fall.",
       "heroImage": "https://asset.kompas.com/crops/T70kdMIezj1bU_slV4bEq07aQEc=/0x0:1800x1200/750x500/data/photo/2024/03/17/65f65101a9241.jpg",
       "heroAlt": "Air Terjun Banyu Nibo by 'Anggara Wikan Prasetya', courtesy of Kompas",
-      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi at ligula sem. Donec nunc risus, convallis vitae odio sit amet, viverra scelerisque risus. Praesent ac tincidunt dui. Duis et egestas quam, in ullamcorper nunc. Nam imperdiet leo eu dignissim tristique. Pellentesque enim nisl, tristique sit amet sagittis eget, pharetra quis libero. Integer sit amet ante quis justo finibus lacinia. Quisque aliquam id arcu eget feugiat. Nulla tristique justo vel malesuada tempus. Sed at egestas nisi, eu pharetra lectus. Sed eget posuere felis, non ultricies metus.",
-      "contentImage": "https://asset.kompas.com/crops/T70kdMIezj1bU_slV4bEq07aQEc=/0x0:1800x1200/750x500/data/photo/2024/03/17/65f65101a9241.jpg",
-      "contentAlt": "Air Terjun Banyu Nibo by 'Anggara Wikan Prasetya', courtesy of Kompas"
+      "firstPara": "Air Terjun Banyu Nibo terletak di Dusun Ngluwur, Desa Kepuhsari, Kecamatan Manyaran, Kabupaten Wonogiri, Jawa Tengah. Destinasi ini dikenal sebagai salah satu objek wisata alam yang menyuguhkan pemandangan menakjubkan dan suasana yang tenang, menjadikannya tempat yang ideal untuk bersantai dan menikmati keindahan alam.",
+      "secondPara": "Air Terjun Banyu Nibo memiliki ketinggian sekitar 20 meter, dan dikelilingi oleh perbukitan hijau yang asri. Air terjun ini juga dipercaya oleh masyarakat setempat dapat menyembuhkan penyakit kulit, menambah daya tariknya bagi wisatawan yang ingin merasakan manfaat dari airnya" ,
+      "thirdPara": "Untuk mencapai Air Terjun Banyu Nibo, pengunjung perlu menempuh perjalanan sekitar 30 kilometer dari pusat Kabupaten Wonogiri. Perjalanan dapat dilakukan menggunakan kendaraan roda dua atau empat, di mana akses jalan menuju lokasi sudah cukup baik. Setelah sampai di area parkir, pengunjung harus berjalan kaki sekitar 10 hingga 15 menit melalui jalan setapak",
+      "contentImage": "https://static.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/p2/11/2024/03/28/air-terjun-banyu-nibo-wonogiri-jawa-tengah-3268896339.jpg",
+      "contentAlt": "Air Terjun Banyu Nibo by 'ksmtour.com', courtesy of Kabar BUMN",
+      "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3951.9936414010444!2d110.77259967091346!3d-7.895731961131421!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a345928d25347%3A0xb6f14674611a37c3!2sAir%20Terjun%20Banyu%20Nibo!5e0!3m2!1sen!2sid!4v1722172607206!5m2!1sen!2sid"
     },
 
     {
@@ -106,9 +131,12 @@
       "subtitle": "brief description",
       "heroImage": "https://imgcdn.solopos.com/@space/2021/04/IMG-20210414-WA0010.jpg",
       "heroAlt": "Soko Langit by 'Istimewa Pokdarwis', courtesy of Solopos",
-      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi at ligula sem. Donec nunc risus, convallis vitae odio sit amet, viverra scelerisque risus. Praesent ac tincidunt dui. Duis et egestas quam, in ullamcorper nunc. Nam imperdiet leo eu dignissim tristique. Pellentesque enim nisl, tristique sit amet sagittis eget, pharetra quis libero. Integer sit amet ante quis justo finibus lacinia. Quisque aliquam id arcu eget feugiat. Nulla tristique justo vel malesuada tempus. Sed at egestas nisi, eu pharetra lectus. Sed eget posuere felis, non ultricies metus.",
-      "contentImage": "https://imgcdn.solopos.com/@space/2021/04/IMG-20210414-WA0010.jpg",
-      "contentAlt": "Soko Langit by 'Istimewa Pokdarwis', courtesy of Solopos"
+      "firstPara": "Soko Langit adalah sebuah objek wisata yang terletak di Dusun Nglarangan, Conto, Kec. Bulukerto, Kabupaten Wonogiri, Jawa Tengah. Destinasi ini menawarkan pemandangan alam yang menakjubkan dan menjadi salah satu tempat favorit bagi para pengunjung yang ingin menikmati keindahan alam serta suasana yang tenang.",
+      "secondPara": "Soko Langit terkenal dengan pemandangan alamnya yang spektakuler, termasuk hamparan sawah, perbukitan, dan hutan yang hijau. Lokasi ini juga sering dijadikan tempat untuk berfoto karena latar belakangnya yang indah, terutama saat matahari terbenam. " ,
+      "thirdPara": "Fasilitas di Soko Langit masih tergolong sederhana, namun mencukupi untuk kebutuhan pengunjung. Terdapat area parkir yang cukup luas, serta beberapa tempat duduk yang dapat digunakan untuk bersantai sambil menikmati pemandangan.",
+      "contentImage": "https://asset.kompas.com/crops/rqxtX8AXBt8GswXShDU03DXZzsM=/0x0:1650x1100/750x500/data/photo/2021/06/19/60cd58ba77053.jpg",
+      "contentAlt": "Soko Langit by 'Anggara Wikan Prasetya', courtesy of Kompas",
+      "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3953.353020904022!2d111.20251909999999!3d-7.752330699999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e798f580f0071d9%3A0x99743fd6e249fcc3!2sSoko%20Langit!5e0!3m2!1sen!2sid!4v1722173379851!5m2!1sen!2sid"
     },
 
     {
@@ -117,20 +145,25 @@
       "subtitle": "brief description",
       "heroImage": "https://pr1.nicelocal.id/m23QeIzZVgYjBFQVlbSEuA/1500x1125,q75/4px-BW84_n0QJGVPszge3NRBsKw-2VcOifrJIjPYFYkOtaCZxxXQ2daFkmzDYc-md-rRXzsNPfRUk64xU5Mq8dHDZx4WmYP9N1p0JrPokUYX2VqKRlFX2g",
       "heroAlt": "Taman Plintheng Semar by 'Nicelocal', courtesy of Nicelocal",
-      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi at ligula sem. Donec nunc risus, convallis vitae odio sit amet, viverra scelerisque risus. Praesent ac tincidunt dui. Duis et egestas quam, in ullamcorper nunc. Nam imperdiet leo eu dignissim tristique. Pellentesque enim nisl, tristique sit amet sagittis eget, pharetra quis libero. Integer sit amet ante quis justo finibus lacinia. Quisque aliquam id arcu eget feugiat. Nulla tristique justo vel malesuada tempus. Sed at egestas nisi, eu pharetra lectus. Sed eget posuere felis, non ultricies metus.",
-      "contentImage": "https://pr1.nicelocal.id/m23QeIzZVgYjBFQVlbSEuA/1500x1125,q75/4px-BW84_n0QJGVPszge3NRBsKw-2VcOifrJIjPYFYkOtaCZxxXQ2daFkmzDYc-md-rRXzsNPfRUk64xU5Mq8dHDZx4WmYP9N1p0JrPokUYX2VqKRlFX2g",
-      "contentAlt": "Taman Plintheng Semar by 'Nicelocal', courtesy of Nicelocal"
+      "firstPara": "Taman Plintheng Semar adalah sebuah objek wisata yang terletak di Kabupaten Wonogiri, Jawa Tengah. Destinasi ini menawarkan suasana yang tenang dan asri, menjadikannya tempat yang ideal untuk bersantai dan menikmati waktu bersama keluarga atau teman.",
+      "thirdPara": "Taman ini memiliki berbagai spot menarik untuk berfoto, serta area terbuka yang luas untuk piknik. Keberadaan taman ini juga dilengkapi dengan berbagai fasilitas yang mendukung kenyamanan pengunjung, seperti tempat duduk, area parkir, dan toilet.",
+      "contentImage": "https://tempat.org/wp-content/uploads/2023/06/Pesona-Keindahan-Objek-Wisata-Watu-Plinteng-Semar-di-Giripurwo-Wonogiri-Jawa-Tengah.jpg",
+      "contentAlt": "Taman Plintheng Semar by 'Adi Nugroho', courtesy of Tempat.org",
+      "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3952.7876743400307!2d110.92146787422385!3d-7.8122869775683155!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a2e35a94d80c1%3A0xfc0b5f1dfe076b5e!2sTaman%20Plinteng%20Semar!5e0!3m2!1sen!2sid!4v1722173770086!5m2!1sen!2sid"
     },
 
     {
-      "slug": "goa-putri-kencono",
-      "title": "Goa Putri Kencono",
+      "slug": "goa-putri-kencana",
+      "title": "Goa Putri Kencana",
       "subtitle": "brief description",
       "heroImage": "https://wisato.id/wp-content/uploads/2023/07/Goa-putri-kencono.jpg",
       "heroAlt": "Goa Putri Kencono by 'kabarjoglosemar', courtesy of Wisato",
-      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi at ligula sem. Donec nunc risus, convallis vitae odio sit amet, viverra scelerisque risus. Praesent ac tincidunt dui. Duis et egestas quam, in ullamcorper nunc. Nam imperdiet leo eu dignissim tristique. Pellentesque enim nisl, tristique sit amet sagittis eget, pharetra quis libero. Integer sit amet ante quis justo finibus lacinia. Quisque aliquam id arcu eget feugiat. Nulla tristique justo vel malesuada tempus. Sed at egestas nisi, eu pharetra lectus. Sed eget posuere felis, non ultricies metus.",
-      "contentImage": "https://wisato.id/wp-content/uploads/2023/07/Goa-putri-kencono.jpg",
-      "contentAlt": "Goa Putri Kencono by 'kabarjoglosemar', courtesy of Wisato"
+      "firstPara": "Goa Putri Kencono adalah sebuah objek wisata alam yang terletak di Kec. Pracimantoro, Kabupaten Wonogiri, Jawa Tengah. Destinasi ini dikenal dengan keindahan alamnya yang menakjubkan dan keunikan formasi batuan di dalam gua, menjadikannya tempat yang menarik untuk dijelajahi oleh para pecinta alam dan wisatawan.",
+      "secondPara": "Goa Putri Kencono memiliki keindahan stalaktit dan stalagmit yang menawan, menciptakan suasana magis di dalam gua. Nama 'Putri Kencono' sendiri berasal dari kisah legenda yang mengisahkan tentang seorang putri yang tinggal di dalam gua ini. Banyak pengunjung yang datang tidak hanya untuk menikmati keindahan alam, tetapi juga untuk merasakan nuansa mistis yang ada di dalam gua. " ,
+      "thirdPara": "Untuk mencapai Goa Putri Kencono, pengunjung dapat menggunakan kendaraan pribadi. Lokasi gua ini dapat diakses dengan mudah, meskipun jalan menuju ke sana mungkin memerlukan perhatian ekstra di beberapa titik",
+      "contentImage": "https://static.promediateknologi.id/crop/0x166:1080x1229/750x500/webp/photo/p1/867/2023/12/05/Goa-Putri-Kencono-2-3204882473.jpeg",
+      "contentAlt": "Goa Putri Kencono by 'goa_putri_kencono', courtesy of indotren.com",
+      "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3950.8007033199656!2d110.79058997422733!3d-8.019476180038572!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7bcbe2ec7efe67%3A0x48c0a33fe040b0ed!2sGoa%20Putri%20Kencana!5e0!3m2!1sen!2sid!4v1722174049617!5m2!1sen!2sid"
     }
   ]
 }
