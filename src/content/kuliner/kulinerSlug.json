@@ -3,89 +3,105 @@
     {
       "slug": "kacang-mete",
       "title": "Kacang Mete",
-      "subtitle": "brief description",
+      "subtitle": "Lezat, Renyah, Otentik!",
       "heroImage": "https://media.karousell.com/media/photos/products/2024/1/24/kacang_mete_asli_wonogiri_grad_1706064190_c7f4fefb_progressive.jpg",
       "heroAlt": "Kacang Mete by 'Kadho', courtesy of Carousell",
-      "content": "Bagi penggemar pantai, setiap kali melihat bentangan pasir pantai yang memanjang sekalipun dari kejauhan sudah mampu  membuatnya sangat gembira. Semakin dekat kemudian mendengarkan suara debur ombak semakin membuat tersenyum lebar dan saat merasakan hembusan angin lautnya membuatnya memejamkan mata dan menikmati setiap momen yang ada. Pantai selalu mampu mencuri perhatiannya dimanapun lokasinya apalagi yang berada di Jogja. Termasuk dengan pesona Pantai Nampu Gunungkidul.",
-      "contentImage": "https://media.karousell.com/media/photos/products/2024/1/24/kacang_mete_asli_wonogiri_grad_1706064190_c7f4fefb_progressive.jpg",
-      "contentAlt": "Kacang Mete by 'Kadho', courtesy of Carousell"
+      "firstPara": "Industri kacang mete di Wonogiri telah berkembang sejak tahun 1980-an. Kacang mete menjadi identik dengan oleh-oleh yang dicari oleh para pemudik, terutama saat Lebaran. Menurut para pelaku usaha, permintaan kacang mete meningkat pesat pada momen-momen tertentu, seperti hari raya, di mana kacang mete sering disajikan di meja tamu",
+      "secondPara": "Kacang mete Wonogiri memiliki keunikan tersendiri dalam hal rasa. Selain gurih, kacang mete ini juga memiliki sentuhan rasa manis yang membuatnya berbeda dari kacang mete dari daerah lain. Proses pengolahan yang panjang dan melibatkan banyak tenaga kerja menjadikan harga kacang mete ini cenderung lebih tinggi, tetapi sebanding dengan kualitas dan cita rasanya" ,
+      "thirdPara": "Sebagian besar kacang mete yang dijual di Wonogiri diproduksi oleh petani lokal dan pengrajin rumahan. Meskipun saat ini terdapat tantangan dari kacang mete yang diimpor dari daerah lain seperti Sulawesi dan Nusa Tenggara, kualitas kacang mete asli Wonogiri tetap diakui. Para pengusaha lokal terus berupaya meningkatkan produksi dan pemasaran melalui berbagai saluran, termasuk media sosial",
+      "contentImage": "https://imgcdn.solopos.com/@space/2024/03/toko-oleh-oleh-wonogiri.jpg",
+      "contentAlt": "Kacang Mete by 'Dhima Wahyu Sejati', courtesy of Solopos"
     },
 
     {
       "slug": "emping",
       "title": "Emping",
-      "subtitle": "brief description",
+      "subtitle": "Gurihnya Tradisi Berpadu Sempurna dengan Kualitas",
       "heroImage": "https://asset.kompas.com/crops/B3WM-y1wth-Prw0fIBx50krsMHg=/0x0:1000x667/750x500/data/photo/2020/08/17/5f3a2785bf7fd.jpg",
-      "heroAlt": "Kacang Mete by 'Kadho', courtesy of Carousell",
-      "content": "Bagi penggemar pantai, setiap kali melihat bentangan pasir pantai yang memanjang sekalipun dari kejauhan sudah mampu  membuatnya sangat gembira. Semakin dekat kemudian mendengarkan suara debur ombak semakin membuat tersenyum lebar dan saat merasakan hembusan angin lautnya membuatnya memejamkan mata dan menikmati setiap momen yang ada. Pantai selalu mampu mencuri perhatiannya dimanapun lokasinya apalagi yang berada di Jogja. Termasuk dengan pesona Pantai Nampu Gunungkidul.",
-      "contentImage": "https://asset.kompas.com/crops/B3WM-y1wth-Prw0fIBx50krsMHg=/0x0:1000x667/750x500/data/photo/2020/08/17/5f3a2785bf7fd.jpg",
-      "contentAlt": "Emping by 'Oen Michael', courtesy of Kompas"
+      "heroAlt": "Emping by 'Oen Michael', courtesy of Kompas",
+      "firstPara": "Emping Wonogiri adalah salah satu camilan tradisional yang sangat digemari oleh masyarakat, baik lokal maupun pengunjung. Terbuat dari biji melinjo, emping ini memiliki rasa yang unik dan tekstur yang renyah, menjadikannya sebagai teman yang sempurna untuk berbagai hidangan atau sekadar camilan.",
+      "secondPara": "Pembuatan emping dimulai dengan pemilihan biji melinjo yang berkualitas. Biji-biji ini kemudian direbus dan dikeringkan sebelum digoreng. Proses penggorengan dilakukan dengan hati-hati untuk memastikan emping memiliki rasa yang gurih dan tekstur yang renyah. Setelah digoreng, emping biasanya dibumbui dengan sedikit garam untuk menambah cita rasa." ,
+      "thirdPara": "Emping Wonogiri terkenal dengan rasa yang gurih dan sedikit pahit, khas dari biji melinjo. Beberapa produsen juga menawarkan varian emping yang dibumbui dengan rempah-rempah atau rasa lainnya, memberikan pilihan yang lebih beragam bagi konsumen. Emping ini sering disajikan sebagai pelengkap makanan, seperti nasi goreng atau soto, atau bisa dinikmati langsung sebagai camilan.",
+      "contentImage": "https://i0.wp.com/joglosemarnews.com/images/2023/05/IMG_20230503_123535_825-jpg.webp?w=842&ssl=1",
+      "contentAlt": "Emping by 'Aris Arianto', courtesy of Joglo Semar News"
     },
 
     {
-      "slug": "sego-tiwul",
-      "title": "Sego Tiwul",
-      "subtitle": "brief description",
+      "slug": "sega-tiwul",
+      "title": "Sega Tiwul",
+      "subtitle": "Cita Rasa Tradisional dari Wonogiri",
       "heroImage": "https://img.inews.co.id/media/822/files/inews_new/2020/09/16/IMG_16092020_114710__822_x_430_piksel_.jpg",
-      "heroAlt": "Sego Tiwul by 'Vien Dimyati', courtesy of iNews",
-      "content": "Bagi penggemar pantai, setiap kali melihat bentangan pasir pantai yang memanjang sekalipun dari kejauhan sudah mampu  membuatnya sangat gembira. Semakin dekat kemudian mendengarkan suara debur ombak semakin membuat tersenyum lebar dan saat merasakan hembusan angin lautnya membuatnya memejamkan mata dan menikmati setiap momen yang ada. Pantai selalu mampu mencuri perhatiannya dimanapun lokasinya apalagi yang berada di Jogja. Termasuk dengan pesona Pantai Nampu Gunungkidul.",
-      "contentImage": "https://img.inews.co.id/media/822/files/inews_new/2020/09/16/IMG_16092020_114710__822_x_430_piksel_.jpg",
-      "contentAlt": "Sego Tiwul by 'Vien Dimyati', courtesy of iNews"
+      "heroAlt": "Sega Tiwul by 'Vien Dimyati', courtesy of iNews",
+      "firstPara": "Sega Tiwul merupakan salah satu makanan khas dari Wonogiri, Jawa Tengah, yang telah menjadi bagian dari budaya kuliner masyarakat setempat. Makanan ini terbuat dari singkong yang diolah menjadi tiwul, sebuah alternatif nasi yang populer di daerah tersebut.",
+      "secondPara": "Makanan ini sudah dikenal sejak zaman penjajahan Jepang, ketika beras menjadi sulit didapat dan harganya melonjak tinggi. Masyarakat Wonogiri kemudian beralih ke singkong sebagai sumber karbohidrat alternatif. Proses pembuatan tiwul melibatkan pengeringan singkong (gaplek), yang kemudian ditumbuk dan dikukus hingga menjadi nasi tiwul yang siap disajikan." ,
+      "thirdPara": "Sega tiwul juga memiliki rasa yang khas, sedikit berbeda dari nasi biasa. Makanan ini biasanya disajikan dengan berbagai lauk, seperti tempe, tahu, dan sayuran. Salah satu cara penyajian yang populer adalah dengan mencampurkan tiwul dengan 'jangan ndeso,' yaitu sayur bersantan yang dipadukan dengan bumbu-bumbu khas. Sega Tiwul juga sering dinikmati dengan urap, menjadikannya sebagai hidangan yang kaya rasa.",
+      "contentImage": "https://i0.wp.com/joglosemarnews.com/images/2023/03/IMG_20230228_161616_371-jpg.webp?w=832&ssl=1",
+      "contentAlt": "Sega Tiwul by 'Aris Arianto', courtesy of Joglo Semar News"
     },
 
     {
       "slug": "geti-wijen",
       "title": "Geti Wijen",
-      "subtitle": "brief description",
+      "subtitle": "Manisnya Tradisi dalam Kelezatan Modern",
       "heroImage": "https://assets.kompasiana.com/items/album/2021/04/19/geti-yang-benar-607d17f6d541df25a54bae42.jpeg?t=o&v=740&x=416",
       "heroAlt": "Geti Wijen by 'Tia Enjelina', courtesy of Kompasiana",
-      "content": "Bagi penggemar pantai, setiap kali melihat bentangan pasir pantai yang memanjang sekalipun dari kejauhan sudah mampu  membuatnya sangat gembira. Semakin dekat kemudian mendengarkan suara debur ombak semakin membuat tersenyum lebar dan saat merasakan hembusan angin lautnya membuatnya memejamkan mata dan menikmati setiap momen yang ada. Pantai selalu mampu mencuri perhatiannya dimanapun lokasinya apalagi yang berada di Jogja. Termasuk dengan pesona Pantai Nampu Gunungkidul.",
-      "contentImage": "https://assets.kompasiana.com/items/album/2021/04/19/geti-yang-benar-607d17f6d541df25a54bae42.jpeg?t=o&v=740&x=416",
-      "contentAlt": "Geti Wijen by 'Tia Enjelina', courtesy of Kompasiana"
+      "firstPara": "Geti Wijen pertama kali diperkenalkan oleh Mbah Atmo, seorang pengrajin yang memulai usaha ini pada tahun 1965. Ia dikenal sebagai pelopor produksi Geti Wijen di wilayah tersebut. Awalnya, Mbah Atmo membuat wijen yang ditumbuk dan dijual ke Solo. Seiring waktu, ia berinovasi dengan menciptakan Geti Wijen, yang menggabungkan biji wijen dengan bahan lainnya, seperti kacang dan mete, untuk memberikan variasi rasa. Kini, usaha ini dilanjutkan oleh generasi ketiga, Endarti, yang terus mempertahankan resep tradisional tersebut.",
+      "secondPara": "Pembuatan Geti Wijen melibatkan beberapa langkah. Pertama, biji wijen disangrai hingga matang. Kemudian, gula merah direbus hingga mengental dan dicampurkan dengan wijen dan bahan tambahan seperti kacang atau mete. Adonan ini kemudian dibentuk dan didinginkan hingga mengeras. Hasilnya adalah camilan yang manis, gurih, dan memiliki tekstur yang renyah." ,
+      "thirdPara": "Geti Wijen dikenal dengan cita rasa manis yang berasal dari gula merah, dipadukan dengan gurihnya kacang dan wijen. Selain varian original, ada juga variasi seperti Geti Wijen dengan tambahan kacang tanah dan mete, yang semakin memperkaya rasa dan tekstur camilan ini. Geti Wijen biasanya disajikan sebagai teman minum teh atau kopi, dan sering kali menjadi pilihan oleh-oleh bagi pengunjung yang datang ke Wonogiri",
+      "contentImage": "https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p1/364/2024/01/16/Geti-wijen-4089666624.jpg",
+      "contentAlt": "Geti Wijen by 'goli_snacker', courtesy of babad.id"
     },
 
     {
       "slug": "bakso-wonogiri",
       "title": "Bakso Wonogiri",
-      "subtitle": "brief description",
+      "subtitle": "Rasa Autentik, Kualitas Terjamin",
       "heroImage": "https://static.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/radarsolo/2021/10/bakso-wonogiri.jpg",
       "heroAlt": "Bakso Wonogiri by 'Iwan Adiluhung', courtesy of Jawa Pos, Radar Solo",
-      "content": "Bagi penggemar pantai, setiap kali melihat bentangan pasir pantai yang memanjang sekalipun dari kejauhan sudah mampu  membuatnya sangat gembira. Semakin dekat kemudian mendengarkan suara debur ombak semakin membuat tersenyum lebar dan saat merasakan hembusan angin lautnya membuatnya memejamkan mata dan menikmati setiap momen yang ada. Pantai selalu mampu mencuri perhatiannya dimanapun lokasinya apalagi yang berada di Jogja. Termasuk dengan pesona Pantai Nampu Gunungkidul.",
-      "contentImage": "https://static.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/radarsolo/2021/10/bakso-wonogiri.jpg",
-      "contentAlt": "Bakso Wonogiri by 'Iwan Adiluhung', courtesy of Jawa Pos, Radar Solo"
+      "firstPara": "Bakso Wonogiri adalah salah satu kuliner ikonik dari Kabupaten Wonogiri, Jawa Tengah, yang terkenal dengan cita rasa khas dan tekstur yang kenyal. Makanan ini telah menjadi favorit di kalangan masyarakat dan pengunjung, serta menjadi salah satu simbol kuliner daerah.",
+      "secondPara": "Asal-usul Bakso Wonogiri dapat ditelusuri kembali ke akhir abad ke-19, ketika seorang pedagang kaki lima bernama Tukijo mulai menjual bakso. Ia mengolah daging giling yang dicampur dengan berbagai rempah, membentuknya menjadi bola-bola kecil, dan merebusnya. Kreasi ini segera mendapatkan tempat di hati masyarakat setempat, sehingga bakso menjadi hidangan yang sangat digemari. Sejak saat itu, bakso terus berkembang dan diolah dengan berbagai inovasi, termasuk penyajian dengan kuah kaldu yang gurih dan tambahan mie atau bihun." ,
+      "thirdPara": "Bakso Wonogiri dikenal memiliki tekstur yang kenyal dan kaya akan daging. Proses pembuatan yang menggunakan bahan berkualitas dan resep tradisional menjadi kunci kelezatan bakso ini. Salah satu ciri khasnya adalah kuah bening yang terbuat dari kaldu tulang sapi. Penyajian bakso biasanya dilengkapi dengan mi, bihun, sayuran, dan taburan bawang goreng, menjadikannya hidangan yang lengkap dan menggugah selera.",
+      "contentImage": "https://img.inews.co.id/media/822/files/inews_new/2021/10/07/Resep_Kuah_Bakso_Wonogiri.jpg",
+      "contentAlt": "Bakso Wonogiri by 'cinnamonrollamelia48', courtesy of iNews"
     },
 
     {
       "slug": "mie-ayam-wonogiri",
       "title": "Mie Ayam Wonogiri",
-      "subtitle": "brief description",
+      "subtitle": "Pilihan yang Menggugah Selera",
       "heroImage": "https://akcdn.detik.net.id/community/media/visual/2024/01/23/mie-ayam-3.jpeg?w=680",
       "heroAlt": "Mie Ayam Wonogiri by 'Google Review ', courtesy of Detikfood",
-      "content": "Bagi penggemar pantai, setiap kali melihat bentangan pasir pantai yang memanjang sekalipun dari kejauhan sudah mampu  membuatnya sangat gembira. Semakin dekat kemudian mendengarkan suara debur ombak semakin membuat tersenyum lebar dan saat merasakan hembusan angin lautnya membuatnya memejamkan mata dan menikmati setiap momen yang ada. Pantai selalu mampu mencuri perhatiannya dimanapun lokasinya apalagi yang berada di Jogja. Termasuk dengan pesona Pantai Nampu Gunungkidul.",
-      "contentImage": "https://akcdn.detik.net.id/community/media/visual/2024/01/23/mie-ayam-3.jpeg?w=680",
-      "contentAlt": "Mie Ayam Wonogiri by 'Google Review ', courtesy of Detikfood"
+      "firstPara": "Mie Ayam Wonogiri terkenal dengan cita rasa manis dan gurih. Mie yang digunakan biasanya adalah mie rebus yang disajikan dengan potongan daging ayam yang dimasak dengan bumbu semur. Bumbu yang digunakan untuk memasak ayam terdiri dari berbagai rempah, seperti kemiri, bawang putih, gula merah, dan kecap, memberikan rasa yang kaya dan kompleks.",
+      "secondPara": "Salah satu keunikan dari mie ayam ini adalah penggunaan minyak ayam yang terbuat dari campuran minyak kelapa, jahe, lada, ketumbar, dan bawang putih, yang menambah aroma dan rasa pada hidangan. Mie ayam bisa disajikan dalam bentuk berkuah atau kering, sesuai dengan preferensi masing-masing." ,
+      "thirdPara": "Mie Ayam Wonogiri kini tidak hanya dapat ditemukan di daerah asalnya, tetapi juga di berbagai kota besar seperti Jakarta. Banyak pedagang yang membuka warung atau gerobak khusus mie ayam, dan beberapa di antaranya telah berhasil menarik perhatian konsumen dengan cita rasa yang otentik. Mie ayam ini juga sering dihadirkan dalam acara-acara kuliner, memperkenalkan lebih banyak orang pada kelezatannya.",
+      "contentImage": "https://asset-2.tstatic.net/jambi/foto/bank/images/Resep-Mi-Ayam-Wonogiri.jpg",
+      "contentAlt": "Mie Ayam Wonogiri by 'Nurlailis', courtesy of TribunJambi"
     },
 
     {
       "slug": "brem-wonogiri",
       "title": "Brem Wonogiri",
-      "subtitle": "brief description",
+      "subtitle": "Keunggulan Tradisional dalam Modernitas",
       "heroImage": "https://etnis.id/content/images/2019/10/brem.jpg",
       "heroAlt": "Brem Wonogiri by 'Lupita Sundari ', courtesy of Etnis",
-      "content": "Bagi penggemar pantai, setiap kali melihat bentangan pasir pantai yang memanjang sekalipun dari kejauhan sudah mampu  membuatnya sangat gembira. Semakin dekat kemudian mendengarkan suara debur ombak semakin membuat tersenyum lebar dan saat merasakan hembusan angin lautnya membuatnya memejamkan mata dan menikmati setiap momen yang ada. Pantai selalu mampu mencuri perhatiannya dimanapun lokasinya apalagi yang berada di Jogja. Termasuk dengan pesona Pantai Nampu Gunungkidul.",
-      "contentImage": "https://etnis.id/content/images/2019/10/brem.jpg",
-      "contentAlt": "Brem Wonogiri by 'Lupita Sundari ', courtesy of Etnis"
+      "firstPara": "Brem memiliki sejarah yang panjang dalam tradisi kuliner masyarakat Jawa. Makanan ini diyakini telah ada sejak zaman dahulu dan menjadi bagian dari budaya lokal. Proses pembuatan brem yang melibatkan fermentasi memberikan cita rasa yang khas dan unik, menjadikannya sebagai salah satu camilan yang dicari oleh banyak orang.",
+      "secondPara": "Pembuatan brem dimulai dengan merebus beras ketan hingga matang, kemudian ditumbuk hingga halus. Setelah itu, adonan ketan dicampur dengan ragi dan gula, lalu dibiarkan selama beberapa hari untuk proses fermentasi. Hasil fermentasi ini kemudian dipadatkan dan dipotong-potong menjadi bentuk persegi atau bulat. Brem biasanya disajikan dalam kemasan yang menarik, membuatnya semakin diminati sebagai oleh-oleh." ,
+      "thirdPara": "Saat ini, brem Wonogiri semakin dikenal tidak hanya di daerah asalnya, tetapi juga di luar daerah melalui pemasaran online. Banyak pelaku usaha kecil yang memanfaatkan media sosial untuk mempromosikan produk ini, sehingga semakin banyak orang yang dapat menikmati kelezatan brem. Camilan ini juga sering dihadirkan pada acara-acara tertentu, seperti perayaan dan festival, menambah daya tariknya di kalangan masyarakat.",
+      "contentImage": "https://static.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/p2/84/2024/04/08/New-Project-2024-04-08T195513512-3307760580.png",
+      "contentAlt": "Brem Wonogiri by 'Iwan Adi Luhung', courtesy of Radar Solo, Jawa Pos"
     },
 
     {
       "slug": "sambal-cabuk",
       "title": "Sambal Cabuk",
-      "subtitle": "brief description",
+      "subtitle": "Pedas Nikmat Khas Daerah",
       "heroImage": "https://akcdn.detik.net.id/visual/2014/11/28/f5a41b59-840e-4693-a258-3e60aaed1655_169.jpg?w=650&q=90",
       "heroAlt": "Sambal Cabuk by 'Christina Andhika Setyanti', courtesy of CNN Indonesia",
-      "content": "Bagi penggemar pantai, setiap kali melihat bentangan pasir pantai yang memanjang sekalipun dari kejauhan sudah mampu  membuatnya sangat gembira. Semakin dekat kemudian mendengarkan suara debur ombak semakin membuat tersenyum lebar dan saat merasakan hembusan angin lautnya membuatnya memejamkan mata dan menikmati setiap momen yang ada. Pantai selalu mampu mencuri perhatiannya dimanapun lokasinya apalagi yang berada di Jogja. Termasuk dengan pesona Pantai Nampu Gunungkidul.",
-      "contentImage": "https://akcdn.detik.net.id/visual/2014/11/28/f5a41b59-840e-4693-a258-3e60aaed1655_169.jpg?w=650&q=90",
-      "contentAlt": "Sambal Cabuk by 'Christina Andhika Setyanti', courtesy of CNN Indonesia"
+      "firstPara": "Sambal Cabuk Wonogiri adalah salah satu kuliner khas yang memiliki cita rasa unik dan kaya akan tradisi. Makanan ini terkenal dengan warna hitam pekat dan menjadi salah satu oleh-oleh yang dicari oleh banyak orang ketika berkunjung ke Wonogiri.",
+      "secondPara": "Pembuatan Sambal Cabuk dimulai dengan pemerasan ampas wijen hitam yang telah disangrai. Ampas tersebut kemudian digiling, dikukus, dan diwarnai dengan merang (serbuk dari daun padi yang dibakar) untuk memberikan warna hitam yang khas. Setelah diwarnai, bahan mentah sambal ini harus dikukus lagi untuk mendapatkan perpaduan rasa yang pas, yaitu pedas, asam, manis, dan sedikit getir." ,
+      "thirdPara": "Sambal Cabuk terkenal dengan cita rasa gurih dan pedas yang cukup kuat. Biasanya, sambal ini disajikan sebagai pelengkap untuk lauk makan tiwul atau nasi. Sambal ini sering dikemas dalam daun pisang, memberikan sentuhan tradisional yang khas.",
+      "contentImage": "https://carica.id/wp-content/uploads/2022/01/SambalCabukWijen.jpg",
+      "contentAlt": "Sambal Cabuk by 'carica.id', courtesy of carica.id"
     },
 
     {
