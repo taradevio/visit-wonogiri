@@ -6,8 +6,8 @@ const images = contentPages.wisata.slice(3, 7);
 ---
 
 <section class="sm:ps-6 sm:pe-6 ps-3 pe-3 mb-[10%] relative">
-  <h1 class="text-center text-6xl pb-10 font-bold">WISATA</h1>
-  <div class="carousel w-full sm:h-dvh h-[50vh]">
+  <h1 class="text-center sm:text-6xl text-4xl pb-10 font-bold">WISATA</h1>
+  <div class="carousel w-full lg:h-dvh md:[80vh] h-[70vh]">
     {
       images.map((item, index) => (
         <div id={`slide${index + 1}`} class="carousel-item relative w-full">
@@ -39,3 +39,4 @@ const images = contentPages.wisata.slice(3, 7);
   </div>
   <SeeMoreBtn href="/wisata/wisata/" />
 </section>
+
