@@ -10,7 +10,7 @@ export default {
     },
     extend: {
       backgroundImage: {
-        'nampu': "url('https://i.pinimg.com/736x/e9/f8/50/e9f850c6aeef44604f8307c4541796d3.jpg')"
+        'nampu': "url('https://steemitimages.com/DQmbaQT8tuqWdBh2mGkd2JjasUMDR4HxLNzQWZK4ECU6duV/IMG_0950.JPG')"
       },
       fontFamily: {
         raleway: ["Raleway", "sans-serif"],
