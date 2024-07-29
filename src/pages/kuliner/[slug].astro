@@ -23,7 +23,7 @@ const { kuliner } = Astro.props;
           >
             {kuliner.title}
           </h1>
-          <p class="sm:text-2xl font-light text-justify sm:pr-4 sm:pt-3">
+          <p class="sm:text-2xl font-light text-center sm:pr-4 sm:pt-3">
             {kuliner.subtitle}
           </p>
         </div>
@@ -37,11 +37,13 @@ const { kuliner } = Astro.props;
       </div>
     </section>
 
-    <section class="sm:mt-[10%] mt-[25%] sm:mb-[12%] mb-[10%] ps-4 pe-4">
+    <section class="sm:mb-[12%] mb-[10%] ps-4 pe-4">
       <div class="sm:ms-72 sm:me-72 sm:space-y-5 text-justify">
         <article>
-          <p class="sm:text-xl leading-relaxed pt-3">{kuliner.content}</p>
-          <figure class="sm:py-5 py-10">
+          <p class="leading-loose pt-3">{kuliner.firstPara}</p>
+          <br />
+          <p class="leading-loose">{kuliner.secondPara}</p>
+          <figure class="sm:py-5 py-10 italic text-sm">
             <img
               src={kuliner.contentImage}
               alt={kuliner.contentAlt}
@@ -49,10 +51,7 @@ const { kuliner } = Astro.props;
             />
             <figcaption>{kuliner.contentAlt}</figcaption>
           </figure>
-
-          <p class="sm:text-xl leading-relaxed">{kuliner.content}</p>
-          <br />
-          <p class="sm:text-xl leading-relaxed">{kuliner.content}</p>
+          <p class="leading-loose">{kuliner.thirdPara}</p>
         </article>
       </div>
     </section>
