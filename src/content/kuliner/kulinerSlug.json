@@ -107,45 +107,53 @@
     {
       "slug": "lentho",
       "title": "Lentho",
-      "subtitle": "brief description",
+      "subtitle": "Kuliner dari Tanah Kelahiran",
       "heroImage": "https://serayunews.pw/wp-content/uploads/2024/06/Lentho-Khas-Wonogiri.webp",
       "heroAlt": "Lentho by 'jatengkita.id', courtesy of SerayuNews",
-      "content": "Bagi penggemar pantai, setiap kali melihat bentangan pasir pantai yang memanjang sekalipun dari kejauhan sudah mampu  membuatnya sangat gembira. Semakin dekat kemudian mendengarkan suara debur ombak semakin membuat tersenyum lebar dan saat merasakan hembusan angin lautnya membuatnya memejamkan mata dan menikmati setiap momen yang ada. Pantai selalu mampu mencuri perhatiannya dimanapun lokasinya apalagi yang berada di Jogja. Termasuk dengan pesona Pantai Nampu Gunungkidul.",
-      "contentImage": "https://serayunews.pw/wp-content/uploads/2024/06/Lentho-Khas-Wonogiri.webp",
-      "contentAlt": "Lentho by 'jatengkita.id', courtesy of SerayuNews"
+      "firstPara": "Lentho telah menjadi bagian dari tradisi kuliner masyarakat Wonogiri selama bertahun-tahun. Makanan ini sering dijajakan di pasar-pasar tradisional dan menjadi salah satu pilihan camilan yang disukai oleh masyarakat lokal maupun pengunjung. Keberadaan lentho dalam budaya kuliner Wonogiri mencerminkan kekayaan bahan lokal dan cara pengolahan yang sederhana namun lezat.",
+      "secondPara": "Pembuatan lentho dimulai dengan mencampurkan tepung ketan dengan gula merah yang telah dicairkan. Adonan ini kemudian dibentuk menjadi bulatan kecil atau pipih, tergantung pada preferensi. Setelah itu, lentho digoreng hingga berwarna kecokelatan dan memiliki tekstur yang renyah di luar, tetapi tetap kenyal di dalam." ,
+      "thirdPara": "Lentho memiliki rasa manis yang khas dari gula merah, dengan aroma yang menggoda. Camilan ini biasanya disajikan sebagai teman minum teh atau kopi, dan sering kali dinikmati sebagai kudapan di sore hari. Variasi lentho yang ditambahkan kacang memberikan rasa gurih yang seimbang dengan manisnya gula.",
+      "contentImage": "https://nglarastenan.wordpress.com/wp-content/uploads/2013/03/20130310_102645.jpg",
+      "contentAlt": "Lentho by 'nglarastenan'"
     },
 
     {
       "slug": "roti-gaplek",
       "title": "Roti Gaplek",
-      "subtitle": "brief description",
+      "subtitle": "Renyah, Rapuh, Roti Gaplek: Rasanya Renyah Rupawan",
       "heroImage": "https://assets.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/2023/02/08/4171574867.jpeg",
       "heroAlt": "Roti Gaplek by 'roti_gaplek_wonogiri1', courtesy of haluanjateng.com",
-      "content": "Bagi penggemar pantai, setiap kali melihat bentangan pasir pantai yang memanjang sekalipun dari kejauhan sudah mampu  membuatnya sangat gembira. Semakin dekat kemudian mendengarkan suara debur ombak semakin membuat tersenyum lebar dan saat merasakan hembusan angin lautnya membuatnya memejamkan mata dan menikmati setiap momen yang ada. Pantai selalu mampu mencuri perhatiannya dimanapun lokasinya apalagi yang berada di Jogja. Termasuk dengan pesona Pantai Nampu Gunungkidul.",
-      "contentImage": "https://assets.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/2023/02/08/4171574867.jpeg",
-      "contentAlt": "Roti Gaplek by 'roti_gaplek_wonogiri1', courtesy of haluanjateng.com"
+      "firstPara": "Roti Gaplek adalah salah satu camilan khas dari Wonogiri yang terbuat dari bahan dasar gaplek, yaitu singkong yang dikeringkan dan digiling menjadi tepung. Makanan ini telah menjadi bagian dari tradisi kuliner lokal dan semakin dikenal di berbagai daerah.",
+      "secondPara": "Pembuatan Roti Gaplek dimulai dengan pengolahan gaplek yang dikeringkan. Gaplek ini kemudian digiling menjadi tepung dan dicampur dengan bahan-bahan lain seperti gula, telur, dan susu untuk menambah rasa. Adonan yang dihasilkan kemudian dibentuk dan dipanggang hingga matang, menghasilkan roti yang kenyal dan aromatik." ,
+      "thirdPara": "Roti Gaplek memiliki rasa yang manis dan sedikit gurih, dengan tekstur yang lembut. Saat ini, terdapat berbagai varian Roti Gaplek, termasuk yang menggunakan bahan tambahan seperti cokelat, kelapa, dan kacang mete. Varian ini memberikan pilihan yang lebih beragam bagi konsumen.",
+      "contentImage": "https://img2.beritasatu.com/cache/beritasatu/960x620-3/1575697245.jpg",
+      "contentAlt": "Roti Gaplek by 'Heriyanto', courtesy of Berita Satu"
     },
 
     {
       "slug": "gatot",
       "title": "Gatot",
-      "subtitle": "brief description",
+      "subtitle": " Sederhana namun Mewah, Tradisional tapi Trendy",
       "heroImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/19._Gathot_2.jpg/800px-19._Gathot_2.jpg",
       "heroAlt": "Gatot by 'Danangtrihartanto', courtesy of Wikipedia",
-      "content": "Bagi penggemar pantai, setiap kali melihat bentangan pasir pantai yang memanjang sekalipun dari kejauhan sudah mampu  membuatnya sangat gembira. Semakin dekat kemudian mendengarkan suara debur ombak semakin membuat tersenyum lebar dan saat merasakan hembusan angin lautnya membuatnya memejamkan mata dan menikmati setiap momen yang ada. Pantai selalu mampu mencuri perhatiannya dimanapun lokasinya apalagi yang berada di Jogja. Termasuk dengan pesona Pantai Nampu Gunungkidul.",
-      "contentImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/19._Gathot_2.jpg/800px-19._Gathot_2.jpg",
-      "contentAlt": "Gatot by 'Danangtrihartanto', courtesy of Wikipedia"
+      "firstPara": "Gatot adalah salah satu camilan khas dari Wonogiri yang terbuat dari singkong kering atau gaplek. Makanan ini memiliki tekstur yang renyah dan rasa yang gurih, menjadikannya sebagai salah satu oleh-oleh yang populer di daerah tersebut.",
+      "secondPara": "Pembuatan gatot dimulai dengan pemilihan singkong yang berkualitas. Singkong tersebut dikupas, dipotong, dan dikeringkan hingga menjadi gaplek. Setelah itu, gaplek digoreng dalam minyak panas hingga berwarna kecokelatan dan renyah. Proses ini memberikan cita rasa khas yang disukai banyak orang." ,
+      "thirdPara": "Gatot memiliki rasa yang gurih dan sedikit manis, tergantung pada cara pengolahannya. Camilan ini biasanya dinikmati sebagai teman minum teh atau kopi. Gatot juga sering disajikan dalam kemasan yang menarik, membuatnya semakin diminati sebagai oleh-oleh.",
+      "contentImage": "https://assets.kompasiana.com/items/album/2020/08/26/m-m-5f45e361097f3661da482726.jpeg?t=o&v=740&x=416",
+      "contentAlt": "Gatot by 'Devi Suryandari', courtesy of Kompasiana"
     },
 
     {
       "slug": "tempe-benguk",
       "title": "Tempe Benguk",
-      "subtitle": "brief description",
+      "subtitle": "Dari Kacang Sederhana, Menjadi Hidangan Istimewa",
       "heroImage": "https://img-global.cpcdn.com/recipes/df64520a0222c219/640x640sq70/photo.webp",
       "heroAlt": "Tempe Benguk by 'Ummu Aqim', courtesy of Cookpad",
-      "content": "Bagi penggemar pantai, setiap kali melihat bentangan pasir pantai yang memanjang sekalipun dari kejauhan sudah mampu  membuatnya sangat gembira. Semakin dekat kemudian mendengarkan suara debur ombak semakin membuat tersenyum lebar dan saat merasakan hembusan angin lautnya membuatnya memejamkan mata dan menikmati setiap momen yang ada. Pantai selalu mampu mencuri perhatiannya dimanapun lokasinya apalagi yang berada di Jogja. Termasuk dengan pesona Pantai Nampu Gunungkidul.",
-      "contentImage": "https://img-global.cpcdn.com/recipes/df64520a0222c219/640x640sq70/photo.webp",
-      "contentAlt": "Tempe Benguk by 'Ummu Aqim', courtesy of Cookpad"
+      "firstPara": "Tempe Benguk memiliki akar budaya yang kuat dalam masyarakat Wonogiri. Proses pembuatan tempe ini memerlukan perhatian khusus, karena biji koro benguk harus direndam selama sekitar dua hari untuk menghilangkan bau tidak sedap dan melunakkan teksturnya. Jika tidak diolah dengan benar, biji ini dapat mengandung racun. Namun, jika diproses dengan baik, Tempe Benguk akan menjadi sajian yang nikmat.",
+      "secondPara": "Pembuatan Tempe Benguk dimulai dengan merendam biji koro benguk. Setelah direndam, biji-bijian tersebut difermentasi dengan ragi tempe, dan kemudian diolah menjadi tempe. Tempe ini kemudian dimasak dengan cara 'besengek', yaitu direbus dalam santan bersama bumbu-bumbu seperti bawang merah, bawang putih, kemiri, dan rempah-rempah lainnya. Proses memasak dilakukan dengan api kecil agar bumbu meresap dengan baik, sehingga menghasilkan cita rasa yang gurih dan lembut." ,
+      "thirdPara": "Tempe Benguk memiliki rasa yang gurih dan lembut, dengan aroma yang menggugah selera. Makanan ini biasanya disajikan hangat dan sering dinikmati bersama nasi.",
+      "contentImage": "https://i0.wp.com/joglosemarnews.com/images/2022/03/IMG_20220322_132557_3.jpg?w=1280&ssl=1",
+      "contentAlt": "Tempe Benguk by 'Aris Arianto', courtesy of Joglo Semar News"
     }
   ]
 }
