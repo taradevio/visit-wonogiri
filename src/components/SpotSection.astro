@@ -5,8 +5,14 @@ import SeeMoreBtn from './SeeMoreBtn.astro';
 const images = contentPages.wisata.slice(3, 7);
 ---
 
-<section class="sm:ps-6 sm:pe-6 ps-3 pe-3 mb-[10%] relative">
-  <h1 class="text-center sm:text-6xl text-4xl pb-10 font-bold">WISATA</h1>
+<section
+  class="sm:ps-6 sm:pe-6 ps-3 pe-3 mb-[10%] relative"
+>
+  <h1
+    class="text-center sm:text-6xl text-4xl pb-10 font-bold"
+  >
+    WISATA
+  </h1>
   <div class="carousel w-full lg:h-dvh md:[80vh] h-[70vh]">
     {
       images.map((item, index) => (
@@ -39,4 +45,3 @@ const images = contentPages.wisata.slice(3, 7);
   </div>
   <SeeMoreBtn href="/wisata/wisata/" />
 </section>
-
