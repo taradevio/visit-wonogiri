@@ -1,9 +1,9 @@
 ---
-import PagesBaseLayout from "../../layouts/PagesBaseLayout.astro";
-import WisataHeroSection from "../../layouts/wisata/WisataHeroSection.astro";
-import WisataSpot from "../../components/WisataSpot.astro";
-import FooterSection from "../../layouts/FooterSection.astro";
-import ToTopButton from "../../components/ToTopButton.astro";
+import PagesBaseLayout from '../../layouts/PagesBaseLayout.astro';
+import PageHeroSection from '../../components/PageHeroSection.astro';
+import Grid from '../../components/Grid.astro';
+import FooterSection from '../../components/FooterSection.astro';
+import ToTopButton from '../../components/ToTopButton.astro';
 import contentPages from '../../data/contentPages.json';
 
 const akomodasi = contentPages.akomodasi;
@@ -11,15 +11,15 @@ const akomodasi = contentPages.akomodasi;
 
 <PagesBaseLayout title="AKOMODASI">
   <header>
-    <WisataHeroSection
+    <PageHeroSection
       heroTitle="AKOMODASI"
-      src="https://images.pexels.com/photos/158148/ruhl-house-home-galveston-texas-158148.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-      alt="akomodasi background"
+      src="https://images.trvl-media.com/lodging/92000000/91630000/91626700/91626628/fa020a3b.jpg?impolicy=resizecrop&rw=1200&ra=fit"
+      alt="OYO Homes 91095 Desa Wisata Conto, courtesy of Expedia"
     />
   </header>
   <main>
     <section class="sm:ps-6 sm:pe-6 ps-3 pe-3 mb-[10%]">
-      <WisataSpot items={akomodasi} />
+      <Grid items={akomodasi} />
     </section>
   </main>
   <FooterSection />

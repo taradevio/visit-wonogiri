@@ -1,7 +1,7 @@
 ---
-import PostLayout from "../../layouts/PostLayout.astro";
-import FooterSection from "../../layouts/FooterSection.astro";
-import { kuliners } from "../../content/kuliner/kulinerSlug.json";
+import PostLayout from '../../layouts/PostLayout.astro';
+import FooterSection from '../../components/FooterSection.astro';
+import { kuliners } from '../../content/kuliner/kulinerSlug.json';
 
 export function getStaticPaths() {
   return kuliners.map((kuliner) => ({

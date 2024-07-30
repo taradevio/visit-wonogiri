@@ -1,9 +1,9 @@
 ---
-import PagesBaseLayout from "../../layouts/PagesBaseLayout.astro";
-import WisataHeroSection from "../../layouts/wisata/WisataHeroSection.astro";
-import WisataSpot from "../../components/WisataSpot.astro";
-import FooterSection from "../../layouts/FooterSection.astro";
-import ToTopButton from "../../components/ToTopButton.astro";
+import PagesBaseLayout from '../../layouts/PagesBaseLayout.astro';
+import PageHeroSection from '../../components/PageHeroSection.astro';
+import Grid from '../../components/Grid.astro';
+import FooterSection from '../../components/FooterSection.astro';
+import ToTopButton from '../../components/ToTopButton.astro';
 import contentPages from '../../data/contentPages.json';
 
 const kuliner = contentPages.kuliner
@@ -11,15 +11,15 @@ const kuliner = contentPages.kuliner
 
 <PagesBaseLayout title="KULINER">
   <header>
-    <WisataHeroSection
+    <PageHeroSection
       heroTitle="KULINER"
-      src="https://images.pexels.com/photos/618491/pexels-photo-618491.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-      alt="kuliner background"
+      src="https://i.pinimg.com/originals/85/40/15/85401500d41d1b34be1625a6c303b01b.jpg"
+      alt="Mie Ayam by 'kebunbibit, Courtesy of Julia.foodhowto'"
     />
   </header>
   <main>
     <section class="sm:ps-6 sm:pe-6 ps-3 pe-3 mb-[10%]">
-      <WisataSpot items={kuliner} basePath="kuliner"/>
+      <Grid items={kuliner} basePath="kuliner"/>
     </section>
   </main>
   <FooterSection />

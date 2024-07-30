@@ -1,7 +1,7 @@
 ---
-import PostLayout from "../../layouts/PostLayout.astro";
-import FooterSection from "../../layouts/FooterSection.astro";
-import { spots } from "../../content/wisata/wisataSlug.json";
+import PostLayout from '../../layouts/PostLayout.astro';
+import FooterSection from '../../components/FooterSection.astro';
+import { spots } from '../../content/wisata/wisataSlug.json';
 
 export function getStaticPaths() {
   return spots.map((spot) => ({

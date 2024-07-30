@@ -1,26 +1,25 @@
 ---
-import PagesBaseLayout from "../../layouts/PagesBaseLayout.astro";
-import WisataHeroSection from "../../layouts/wisata/WisataHeroSection.astro";
-import WisataSpot from "../../components/WisataSpot.astro";
-import FooterSection from "../../layouts/FooterSection.astro";
-import ToTopButton from "../../components/ToTopButton.astro";
+import PagesBaseLayout from '../../layouts/PagesBaseLayout.astro';
+import PageHeroSection from '../../components/PageHeroSection.astro';
+import Grid from '../../components/Grid.astro';
+import FooterSection from '../../components/FooterSection.astro';
+import ToTopButton from '../../components/ToTopButton.astro';
 import contentPages from '../../data/contentPages.json';
 
 const wisata = contentPages.wisata;
-
 ---
 
 <PagesBaseLayout title="WISATA">
   <header>
-    <WisataHeroSection
+    <PageHeroSection
       heroTitle="WISATA"
-      src="https://images.pexels.com/photos/26312401/pexels-photo-26312401/free-photo-of-city.jpeg"
-      alt="wisata background"
+      src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHjmx0Yw8fzO_zBntcLE3oDOcdSU520afWpDzp1-MRNlVCGECT8subC1e0oXdhYsWQi5NNNYIKTaveIfn2y9RN7lxiOfmhBKRP8LHE3rlmcfNtDvgdW4HUqQ9YLI00jwI2Y9CakHJt6gnP/s1600/air-terjun-setren-girimanik-wonogiri.jpg"
+      alt="Air Terjun Girimanik by 'bolehtanya.com', Courtesy of BUKU PINTAR KABUPATEN WONOGIRI"
     />
   </header>
   <main>
     <section class="sm:ps-6 sm:pe-6 ps-3 pe-3 mb-[10%]">
-      <WisataSpot items={wisata} basePath="wisata"/>
+      <Grid items={wisata} basePath="wisata"/>
     </section>
   </main>
   <FooterSection />
