@@ -16,18 +16,18 @@ const { kuliner } = Astro.props;
 <PostLayout title={kuliner.title}>
   <main>
     <section class="ps-4 pe-4 pt-2">
-      <div class="sm:flex sm:justify-center sm:items-center sm:h-dvh border-b">
-        <div class="sm:w-2/5 space-y-4">
+      <div class="lg:flex lg:justify-center sm:items-center lg:h-dvh border-b">
+        <div class="lg:w-2/5 lg:space-y-4 md:space-y-3 sm:space-y-2">
           <h1
-            class="sm:text-8xl text-center sm:font-bold text-4xl font-semibold"
+            class="lg:text-8xl md:text-6xl sm:text-3xl text-xl text-center font-semibold"
           >
             {kuliner.title}
           </h1>
-          <p class="sm:text-2xl font-light text-center sm:pr-4 sm:pt-3">
+          <p class="lg:text-4xl md:text-2xl sm:text-xl text-sm font-light text-center lg:pr-4 lg:pt-3 md:pb-5 sm:pb-3 pb-2 italic">
             {kuliner.subtitle}
           </p>
         </div>
-        <div class="sm:w-3/5 w-full h-[90%]">
+        <div class="lg:w-3/5 w-full lg:h-[90%] md:h-[70%] sm:h-[60%]">
           <img
             src={kuliner.heroImage}
             alt={kuliner.heroAlt}
@@ -37,8 +37,8 @@ const { kuliner } = Astro.props;
       </div>
     </section>
 
-    <section class="sm:mb-[12%] mb-[10%] ps-4 pe-4">
-      <div class="sm:ms-72 sm:me-72 sm:space-y-5 text-justify">
+    <section class="mb-[12%] ps-4 pe-4">
+      <div class="lg:ms-72 lg:me-72 sm:space-y-5 text-justify">
         <article>
           <p class="leading-loose pt-3">{kuliner.firstPara}</p>
           <br />
@@ -55,6 +55,6 @@ const { kuliner } = Astro.props;
         </article>
       </div>
     </section>
-    <FooterSection />
   </main>
+  <FooterSection />
 </PostLayout>
