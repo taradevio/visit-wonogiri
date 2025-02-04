@@ -10,4 +10,5 @@ Based on the problems above, I decided to work on:
 - Simplified user interface
 - Manageable categories
 - Proper contents, providing information, such as description, images, and map
+  
 Whilst these are the basic solutions, I could improve further in the future by adding more features, such as search, filter, categories, and better UI for user experiences
